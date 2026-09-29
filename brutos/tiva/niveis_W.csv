@@ -1,0 +1,85 @@
+MEASURE,Measure,REF_AREA,Reference area,ACTIVITY,Economic activity,COUNTERPART_AREA,Counterpart area,UNIT_MEASURE,TIME_PERIOD,OBS_VALUE,UNIT_MULT
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2019,83425730.02,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2019,14562280.814,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,1292703.511,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,1550174.711,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2021,92599651.41,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2021,16516605.416,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2020,14200918.337,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2020,81458843.682,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,1331003.535,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,1550948.088,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2022,96280470.551,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2022,16922084.972,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2008,61068217.362,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2008,10603415.125,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,906730.676,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,963385.025,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2010,63397374.624,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2010,11033056.137,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2011,12274426.421,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2011,70397786.454,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,1035879.775,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2016,12693939.069,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2016,72853201.047,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,1142012.182,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2014,13163173.002,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2014,75808655.065,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,1143961.521,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,1096444.827,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2013,73931954.501,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2013,12755836.183,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2012,12525834.086,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2012,71949871.946,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,1048309.439,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,822563.216,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2009,57985679.101,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2009,9699668.387,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,1370729.901,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2018,14513316.492,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2018,82270125.847,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2017,13561896.394,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2017,77421874.619,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,1246154.217,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,1136677.375,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2015,71740360.596,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2015,12678293.432,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,546444.472,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2002,33283490.787,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2002,5968891.794,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2003,37290955.692,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2003,6662287.132,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,618051.738,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,654916.349,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2000,6166561.51,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2000,32170074.831,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,1996,5983816.725,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,1996,30352750.434,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,531342.813,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,539430.526,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2001,32054506.345,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2001,5861732.243,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,1995,5969118.816,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,1995,29608049.014,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,520851.685,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,571070.198,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,1999,31160182.177,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,1999,5971022.874,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,1998,5797237.277,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,1998,30003909.333,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,545291.893,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,559151.007,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,1997,30207901.422,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,1997,5932758.185,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2005,8000523.928,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2005,45455564.836,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,722199.734,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2004,7469679.058,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2004,41962919.675,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,686496.157,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2007,9803055.564,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2007,55499150.626,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,856955.675,6
+VALU,Value added,W,World,_T,Total - All activities,W,World,USD,2006,49244791.438,6
+VALU,Value added,W,World,C,Manufacturing,W,World,USD,2006,8657821.239,6
+VALU,Value added,W,World,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,778269.48,6

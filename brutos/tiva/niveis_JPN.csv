@@ -1,0 +1,505 @@
+MEASURE,Measure,REF_AREA,Reference area,ACTIVITY,Economic activity,COUNTERPART_AREA,Counterpart area,UNIT_MEASURE,TIME_PERIOD,OBS_VALUE,UNIT_MULT
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2019,4908507.632,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2019,1117219.326,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,74061.203,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,119118.368,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2010,5552902.858,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2010,1270371.468,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2011,1317605.279,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2011,6006195.579,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,116078.217,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2016,1083018.237,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2016,4791692.202,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,75825.472,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2014,1042995.912,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2014,4703674.075,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,77904.367,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,80795.058,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2013,5025050.842,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2013,1096189.951,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2012,1332214.094,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2012,6046242.39,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,99738.659,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,99143.476,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2009,5094433.715,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2009,1078308.352,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,80223.832,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2018,1116195.169,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2018,4836804.545,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2017,1078264.055,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2017,4727426.559,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,73907.847,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,71928.434,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2015,4259084.161,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2015,975619.025,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,7848.842,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2001,25430.913,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2001,30744.376,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1995,25740.138,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1995,21549.254,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,6742.082,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2002,31518.859,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2002,25885.256,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,7459.58,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1996,27405.036,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1996,22688.543,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,7100.276,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,8688.147,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2003,31074.807,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2003,37606.147,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1998,25319.158,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1998,21035.467,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,6338.602,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2004,50012.697,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2004,41514.396,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,11282.711,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1997,30493.636,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1997,25503.555,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,7770.203,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,12398.122,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2005,55026.024,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2005,65959.419,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2000,34411.253,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2000,29126.087,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,9754.348,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2010,105334.494,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2010,87028.749,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,13277.461,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2015,115580.011,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2015,94314.416,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,15537.194,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2009,70970.977,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2009,57326.239,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,9191.32,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,14508.046,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2007,89070.008,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2007,106023.825,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2006,89060.847,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2006,74734.868,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,15651.107,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2016,101257.742,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,92232.726,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2002,4027981.627,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2002,922015.349,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2003,4356257.343,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2003,1006925.163,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,106762,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,142274.173,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2000,1174692.709,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2000,4779862.92,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,1996,1220334.439,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,1996,4755998.203,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,129507.011,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,99984.978,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2001,4210403.394,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2001,984011.19,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,1995,1386158.577,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,1995,5357702.057,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,141459.678,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2008,1157282.297,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2008,4944650.594,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,113673.572,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,122124.014,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,1999,4454048.882,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,1999,1085662.041,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,1998,985264.542,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,1998,3944018.022,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,106478.695,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,119847.333,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,1997,4334931.074,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,1997,1106679.944,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2005,1094826.038,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2005,4661873.282,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,109788.319,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2004,1099677.553,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2004,4719139.893,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,116474.225,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2007,1062682.559,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2007,4431240.883,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,110983.159,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2006,4446930.949,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2006,1043998.479,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,106926.084,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,68014.582,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2018,759122.155,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2018,479990.464,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,57224.794,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2016,678723.112,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2016,425670.684,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,77368.687,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2008,725396.947,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2008,489372.698,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,61539.297,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2009,571146.484,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2009,368640.254,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,90563.024,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2003,464522.81,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2018,496422.191,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2018,308407.435,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,49621.425,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1995,448389.033,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,101595.066,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1995,318191.52,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2006,252472.56,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,53517.077,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2006,386175.539,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,1999,140603.085,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,41064.112,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,1999,213570.236,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,1997,143718.643,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,40643.531,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,27557.788,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2021,370000.814,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2021,272716.934,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2015,233923.539,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2015,323126.144,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,26884.203,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,47707.608,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2002,218642.652,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2002,165221.717,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,62265.152,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2017,719807.971,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2017,452416.095,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,79177.402,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2010,734516.796,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,81914.361,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1998,387897.806,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1998,272858.197,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2019,488602.101,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2019,297124.624,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,48588.933,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2011,327683.479,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,50108.492,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2011,511857.02,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2012,316225.32,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,51394.231,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2012,492497.113,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,30927.524,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2017,367773.405,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2017,261509.581,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,45375.429,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,1995,153154.575,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,1995,228126.279,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,50850.091,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2003,237277.372,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2003,176878.337,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2019,558063.456,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2019,866384.706,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,79728.13,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2000,370087.297,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2000,508920.476,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,121701.88,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2010,492383.62,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,62994.701,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2014,687715.355,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2014,442816.405,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,57162.676,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2015,636862.847,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2015,405672.285,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2001,280871.711,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2001,400825.736,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,83555.77,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2007,454305.218,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2007,664916.647,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,78425.093,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2020,280340.354,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,43902.594,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2020,450940.377,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,90436.082,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1996,290922.468,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1996,415980.294,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2002,142932.591,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,39560.16,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2002,221328.469,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2008,312177.876,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,51723.867,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2008,479044.711,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2007,422308.497,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2007,276679.799,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,51389.018,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,1998,131143.627,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,36671.54,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,1998,198909.097,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2021,604878.681,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2021,898451.014,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,73709.068,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,51647.592,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2001,219477.243,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2001,165997.962,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2013,550658.349,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2013,803094.196,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,78081.058,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2016,507305.094,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2016,779980.814,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,69904.619,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,86113.295,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2021,4783167.643,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2021,1128366.214,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2020,1090960.209,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2020,4822329.385,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,79079.464,6
+VALU,Value added,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,69732.522,6
+VALU,Value added,JPN,Japan,_T,Total - All activities,W,World,USD,2022,4043686.271,6
+VALU,Value added,JPN,Japan,C,Manufacturing,W,World,USD,2022,922707.364,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,58346.913,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2021,754409.845,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2021,486799.757,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,64978.385,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2019,740079.164,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2019,456637.218,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,73616.313,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2012,750991.596,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2012,503712.815,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2005,391150.565,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2005,581583.478,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,84609.862,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2022,334819.729,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,45917.988,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2022,530133.765,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2016,265496.778,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,44003.518,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2016,439392.549,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2014,295231.47,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,48108.549,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2014,476268.888,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2000,169021.796,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,52700.504,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2000,247507.09,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,59259.94,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2004,213387.991,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2004,323747.158,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,1996,142024.692,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,41057.28,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,1996,215883.7,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,25901.101,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2016,241808.316,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2016,340588.265,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2011,291113.417,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2011,386736.499,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,39612.059,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2017,550847.859,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2017,841681.169,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,78424.456,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2002,308154.308,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2002,439971.12,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2005,446176.59,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2005,647542.898,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,97007.985,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1997,321759.203,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1997,451498.421,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,98828.799,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,55356.56,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2022,711440.688,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2022,454249.128,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,91058.601,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1997,296255.663,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1997,421004.802,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,46279.198,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2013,288191.43,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2013,456121.075,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2015,429316.676,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2015,266063.129,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,45815.659,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,1997,217252.598,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,34552.937,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2018,398530.581,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2018,282095.265,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,31801.86,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2013,346973.121,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2013,262466.918,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,30522.31,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2009,269074.306,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2009,195758.681,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,51581.427,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,1998,214307.878,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,1998,162750.048,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,58369.305,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2004,210114.324,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2004,281916.115,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2018,590502.7,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2018,894952.773,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,84174.362,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2008,600279.716,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2008,857369.905,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,92798.9,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2015,499986.668,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2015,752442.819,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,72699.862,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2006,489997.574,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2006,701080.23,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,101421.826,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,57307.941,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2020,659564.946,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2020,426350.18,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,85770.718,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2006,612019.379,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2006,415262.702,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,106346.534,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2004,381987.918,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2004,555650.575,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2009,230207.733,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,40208.286,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2009,373043.055,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2010,298559.146,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,51411.256,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2010,467282.066,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2001,140304.66,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,39757.02,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2001,212092.868,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,41043.614,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2010,372569.254,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2010,280853.246,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,37693.711,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2012,389045.115,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2012,295442.217,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,57066.99,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,1999,227926.579,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,1999,173392.392,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,62961.715,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,1995,246002.88,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,1995,186586.19,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,89720.551,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2011,898593.519,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2011,618796.896,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2016,81634.444,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,12679.834,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2013,131482.526,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2013,108152.561,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,15082.161,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,7003.158,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1999,21977.963,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1999,26382.436,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2021,144041.201,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2021,118078.951,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,15362.162,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2014,142608.244,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2014,116958.381,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,16880.573,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,15471.628,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2012,107954.719,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2012,130550.628,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2011,131062.866,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2011,109311.235,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,14582.324,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2022,188914.197,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2022,154786.706,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,19370.477,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2020,107994.924,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2020,88080.082,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,13397.389,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,14749.758,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2019,101426.294,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2019,126305.609,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2008,131972.965,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2008,110907.025,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,15430.215,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,16159.784,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2018,110512.254,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2018,135830.637,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2017,121873.228,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2017,98431.791,6
+EXGR_FVA,Foreign value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,16159.311,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1999,415114.384,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,91127.946,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1999,292017.517,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2003,320027.326,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2021,332161.746,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,46151.281,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2021,528450.199,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,28809.049,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2022,370221.12,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2022,274216.103,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,31139.197,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2019,377782.606,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2019,260938.833,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,41544.119,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2007,348631.969,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2007,266695.422,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,47904.749,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2006,314904.691,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2006,237525.013,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2022,609035.832,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2022,900354.885,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,74727.037,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2012,881542.229,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2012,611667.537,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,89087.942,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2001,306302.623,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2001,431570.111,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,91404.611,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1996,313610.998,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1996,443385.315,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,97536.354,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,41075.033,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2008,378325.195,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2008,288101.84,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,69001.376,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2000,261413.385,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2000,201065.501,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,56479.074,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,1996,227501.616,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,1996,171586.306,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2020,514430.199,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2020,767559.79,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,70705.314,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2003,351102.133,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2003,502128.956,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,99251.171,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2010,579412.392,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2010,839851.32,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,92454.87,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2009,425966.414,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2009,642117.361,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,70730.596,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2004,423502.315,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2004,605663.273,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,117629.245,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,87267.768,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1998,293893.675,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1998,413216.975,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,88252.966,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1995,339740.764,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1995,474129.16,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,108337.144,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,98131.103,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,1999,441496.815,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,1999,313995.477,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,62998.903,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2013,671611.699,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2013,442505.814,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,75138.228,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2011,767530.656,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2011,509485.665,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2002,282269.053,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,79808.188,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2002,408452.262,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,111947.531,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2000,474509.221,6
+EXGR_DVA,Domestic value added in gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2000,340961.209,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2017,289338.279,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,47496.932,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2017,473907.765,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2005,227525.621,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,48719.934,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2005,348396.853,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,_T,Total - All activities,W,World,USD,2003,264851.584,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C,Manufacturing,W,World,USD,2003,174223.796,6
+EXGR_INT,Gross exports of intermediate products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,48401.08,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,26802.721,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2020,316619.413,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2020,234089.845,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,31766.712,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2014,354054.654,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2014,264543.266,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,48288.051,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,2005,299146.045,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,2005,218650.97,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,58185.268,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,_T,Total - All activities,W,World,USD,1997,234245.823,6
+EXGR_FNL,Gross exports of final products,JPN,Japan,C,Manufacturing,W,World,USD,1997,178040.56,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2014,559774.736,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2014,830323.542,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,79875.262,6
+EXGR,Gross exports,JPN,Japan,C,Manufacturing,W,World,USD,2007,543375.221,6
+EXGR,Gross exports,JPN,Japan,_T,Total - All activities,W,World,USD,2007,770940.467,6
+EXGR,Gross exports,JPN,Japan,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,92933.137,6

@@ -1,0 +1,505 @@
+MEASURE,Measure,REF_AREA,Reference area,ACTIVITY,Economic activity,COUNTERPART_AREA,Counterpart area,UNIT_MEASURE,TIME_PERIOD,OBS_VALUE,UNIT_MULT
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2019,1706422.451,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2019,209784.652,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,5027.608,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2008,1529356.276,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2008,252935.329,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,9380.18,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,8677.278,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2010,1985301.498,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2010,297666.89,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2011,327212.293,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2011,2351757.312,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,10179.954,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2016,205743.415,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2016,1630407.416,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,4971.892,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2014,270343.225,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2014,2222001.69,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,7839.802,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,9275.085,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2013,2229353.92,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2013,279452.655,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2012,282944.223,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2012,2216577.916,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,8647.069,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,8198.635,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2009,1512061.415,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2009,232586.164,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,5108.877,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2018,217107.066,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2018,1735215.014,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2017,235310.56,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2017,1868598.042,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,6066.18,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,4786.738,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2015,1631765.448,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2015,202598.876,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,519.837,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2001,5941.801,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2001,7866.077,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1995,4016.794,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1995,2668.007,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,88.368,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2002,8015.353,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2002,5825.321,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,451.141,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1996,3789.152,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1996,2874.646,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,97.083,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,399.811,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2003,6353.394,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2003,8677.079,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1998,4397.26,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1998,3394.703,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,161.438,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2004,11749.35,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2004,8632.176,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,423.165,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1997,4540.07,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1997,3521.878,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,140.555,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,652.96,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2005,9527.55,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2005,13099.146,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2000,6805.46,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2000,5231.566,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,452.619,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2010,22183.073,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2010,13396.492,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,500.322,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2015,26641.737,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2015,15182.814,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,325.846,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2009,16072.235,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2009,10771.85,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,434.639,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,562.87,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2007,12849.594,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2007,18002.867,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2006,15332.884,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,2952.475,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2002,462614.404,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2002,69021.976,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2003,508215.079,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2003,86418.074,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,2668.994,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,3315.932,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2000,90523.375,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2000,594598.955,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,1996,115984.947,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,1996,775059.776,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,4300.261,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,2720.381,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2001,511241.755,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2001,77496.364,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,1995,116676.347,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,1995,699300.743,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,4235.499,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,2984.381,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,1999,543004.766,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,1999,81978.001,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,1998,117327.331,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,1998,789926.821,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,4256.829,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,4348.958,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,1997,806735.776,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,1997,119905.744,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2005,135429.528,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2005,807639.674,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,5284.54,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2004,106349.567,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2004,606963.02,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,3911.244,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2007,206209.544,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2007,1264150.631,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,8207.877,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2006,1001907.402,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2006,161528.537,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,6582.354,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,861.045,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2019,76203.08,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2019,217884.851,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,803.908,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2021,90396.116,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2021,272434.508,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,935.918,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2014,90579.827,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2014,235268.495,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,2215.805,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2009,160297.893,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2009,76410.213,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2020,154174.492,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2020,43459.601,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,348.394,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,1893.681,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2000,33662.72,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2000,57701.828,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2007,51404.919,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,1049.66,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,270.898,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,1997,17497.503,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,1997,31070.112,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,653.173,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2001,18124.076,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2001,34202.939,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2015,47120.687,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2015,90091.456,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,732.39,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,1799.109,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2009,76632.058,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2009,43886.589,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,1594.447,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2002,32868.855,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2002,21000.754,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2000,19515.995,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2000,29929.215,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,1741.903,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2016,95519.595,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,1027.864,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2006,11127.267,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,682.413,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2016,22950.325,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2016,13324.03,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,247.474,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2013,30452.205,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2013,18458.11,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,349.036,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,255.806,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1999,4117.62,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1999,5274.363,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2021,43467.853,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2021,21827.924,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,482.397,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2014,28045.27,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2014,15812.333,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,294.015,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,377.886,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2012,17665.901,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2012,29236.982,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2011,28054.859,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2011,16741.337,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,369.197,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2022,51008.45,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2022,27785.094,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,443.012,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2020,30293.241,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2020,14922.891,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,288.635,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,320.015,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2019,15602.086,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2019,30196.9,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2008,25105.457,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2008,17790.136,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,683.118,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,311.436,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2018,17664.838,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2018,32558.874,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2017,26008.221,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2017,14167.991,6
+EXGR_FVA,Foreign value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,287.866,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2005,67241.547,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2005,118571.195,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,2959.441,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2006,76573.607,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2006,138911.245,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,3254.979,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2012,177929.955,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2012,59704.146,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,574.373,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2018,171876.815,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2018,54760.54,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,434.676,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2007,103365.416,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2019,43142.79,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2019,85265.849,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,742.804,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,302.282,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,1998,16946.877,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,1998,31049.407,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,982.364,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2012,106439.092,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2012,59603.882,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2001,21290.045,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2001,32874.8,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,1782.821,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2015,96011.699,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,1183.784,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2015,226040.585,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2008,117588.8,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,3437.251,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2008,221260.512,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2005,76769.097,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,3612.401,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2005,131670.341,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2000,38894.286,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,2346.3,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2000,64507.288,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,1178.851,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2012,101642.127,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2012,255132.065,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,1246.667,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1999,50344.416,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1999,29729.218,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,1712.359,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2003,73324.575,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2003,41431.406,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2014,163804.194,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2014,53433.702,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,408.686,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2008,131514.62,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2008,61716.47,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,1065.91,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2009,99738.061,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2009,43295.468,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,851.334,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2000,34578.073,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2000,19378.292,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,604.397,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2014,99509.565,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,821.247,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2014,52958.454,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,2381.795,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2007,76443.226,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2007,48237.487,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2005,57964.186,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,2399.26,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2005,37354.141,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,1997,18255.466,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,1997,27792.2,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,770.581,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2022,142535.745,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,1381.269,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2022,375590.271,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,1556.737,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2012,284369.047,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2012,119308.028,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2013,119168.406,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2013,282282.065,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,1419.581,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1997,35752.969,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,1041.479,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1997,58862.312,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,780.39,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2016,82195.567,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2016,194673.105,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2008,196155.056,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2008,99798.665,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,2754.133,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,1916.157,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2001,33472.32,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2001,59211.662,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,900.924,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1997,32231.091,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1997,54322.243,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2017,153701.07,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2017,52367.273,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,407.9,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2004,58455.515,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2004,32112.711,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,748.863,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,693.303,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2003,45326.749,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2003,24785.053,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2020,41790.356,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2020,81572.359,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,560.508,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,1082.97,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2011,103371.556,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2011,58813.089,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,1998,17990.768,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,1998,28111.216,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,894.675,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,1369.683,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2004,31404.09,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2004,48727.268,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2009,87182.057,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,2650.443,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2009,176370.12,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2001,39414.121,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,2435.994,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2001,67077.739,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1996,32347.339,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,755.166,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1996,54370.741,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1995,50875.985,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,857.938,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2015,80828.888,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2015,199398.852,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,1674.761,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2010,88438.003,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2010,209417.251,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,1035.519,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1998,31542.942,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1998,54763.364,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2013,57262.276,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2013,171562.489,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,514.743,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2006,88157.218,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2006,45575.641,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,1290.398,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,656.369,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2002,19588.012,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2002,37290.845,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2021,52555.239,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2021,102511.181,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,789.111,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,2371.342,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2008,55872.33,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2008,89745.891,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2021,112224.037,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2021,315902.355,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,1286.305,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2007,99642.407,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2007,179808.642,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,3431.455,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2002,40588.766,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,2250.816,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2002,70159.699,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2016,217623.426,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2014,106392.156,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,1229.933,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2014,263313.759,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1998,34937.645,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,1196.957,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1998,59160.624,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,855.437,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2017,225752.45,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2017,90096.095,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2022,114750.651,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2022,324581.823,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,938.257,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,1070.545,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2013,100710.299,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2013,251829.865,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,1326.207,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2011,104637.835,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2011,265239.63,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,2868.585,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2007,161805.776,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2007,86792.813,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,658.083,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1996,29472.694,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1996,50581.59,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2016,126903.84,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2016,46714.212,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,382.727,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2005,73706.154,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2005,39414.957,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,1213.141,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,1999,29038.385,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,1999,16611.044,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,386.845,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,1996,30026.427,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,1996,16444.025,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,206.619,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,645.137,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2016,48805.383,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2016,90719.586,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2010,88293.016,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2010,51763.825,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,1436.96,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,2646.994,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2006,66086.911,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2006,42125.233,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,1418.867,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2003,22999.747,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2003,36674.905,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2019,91805.16,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,1181.059,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2019,248081.742,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2020,85249.957,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,908.902,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2020,235746.851,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2006,87700.874,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,3937.392,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2006,154244.129,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,1695.404,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2011,293294.488,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2011,121379.171,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,2112.17,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,1502.472,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,521.678,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,4577.003,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2021,1496786.418,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2021,212026.03,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2020,168981.548,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2020,1345865.05,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,4139.375,6
+VALU,Value added,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,5432.953,6
+VALU,Value added,BRA,Brazil,_T,Total - All activities,W,World,USD,2022,1758350.392,6
+VALU,Value added,BRA,Brazil,C,Manufacturing,W,World,USD,2022,251748.99,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2002,62144.346,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2002,34763.445,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,1799.675,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,433.309,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1995,26396.785,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1995,46859.191,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2022,254193.119,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2022,77492.923,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,534.923,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2015,135949.129,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2015,48891.011,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,451.394,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2010,143307.31,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2010,50070.671,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,738.124,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2011,62566.082,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2011,189922.932,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,612.434,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2018,48977.796,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2018,93868.321,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,742.872,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,846.346,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2022,65042.821,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2022,121397.153,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,904.838,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2013,110719.576,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2013,61906.131,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,1996,15903.314,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,1996,24344.314,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,548.547,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2017,104264.084,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,1143.303,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2017,251760.668,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2018,103738.337,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,1177.548,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2018,265745.136,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,2118.546,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2004,107182.783,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2004,63516.801,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2003,82001.654,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2003,47784.8,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1999,33846.838,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,1999,55618.779,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,620.268,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2020,205453.621,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2020,70327.072,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2018,86073.501,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2018,233186.265,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,866.112,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,1695.381,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2004,54884.625,6
+EXGR_DVA,Domestic value added in gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2004,95433.434,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,438.255,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2019,162815.893,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2019,48662.37,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,2021,59668.797,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,2021,213391.174,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,497.194,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,735.403,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,2017,98059.598,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,2017,51896.811,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,144.957,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,C,Manufacturing,W,World,USD,1995,15426.035,6
+EXGR_INT,Gross exports of intermediate products,BRA,Brazil,_T,Total - All activities,W,World,USD,1995,29152.11,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,1999,17235.794,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,1999,26580.394,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,1115.627,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C,Manufacturing,W,World,USD,1995,13638.757,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,_T,Total - All activities,W,World,USD,1995,21723.875,6
+EXGR_FNL,Gross exports of final products,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,376.72,6
+EXGR,Gross exports,BRA,Brazil,_T,Total - All activities,W,World,USD,2010,231600.326,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,2010,101834.496,6
+EXGR,Gross exports,BRA,Brazil,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,2175.083,6
+EXGR,Gross exports,BRA,Brazil,C,Manufacturing,W,World,USD,1995,29064.792,6

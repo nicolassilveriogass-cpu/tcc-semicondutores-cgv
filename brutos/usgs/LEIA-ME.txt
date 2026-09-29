@@ -1,0 +1,5 @@
+Tabela "World Mine Production and Reserves" transcrita de:
+JOHNSTON, Shelby N. Rare earths. In: U.S. GEOLOGICAL SURVEY. Mineral commodity summaries 2026. Reston, VA: USGS, 2026. Disponível em: https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf. Acesso em: 25 set. 2026.
+Unidade: toneladas métricas de óxidos de terras raras (REO equivalente). "e" = estimativa. NA = não disponível.
+CONFERIDA cédula a cédula contra o PDF em 28 set. 2026: todos os valores batem. Os expoentes que aparecem junto aos números no PDF (ex.: "14270,000") são chamadas de nota de rodapé da própria tabela, não dígitos.
+Notas da fonte: China e Mianmar com nota sobre cotas de produção; Austrália: reservas JORC-compliant ou equivalentes eram 3,3 Mt (contra 6,3 Mt reportadas). China ~69% da produção mundial em 2025; em abril de 2025 a China apertou os controles de exportação (samário, gadolínio e outros).

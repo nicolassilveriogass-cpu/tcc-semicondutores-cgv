@@ -1,0 +1,169 @@
+MEASURE,Measure,REF_AREA,Reference area,ACTIVITY,Economic activity,COUNTERPART_AREA,Counterpart area,UNIT_MEASURE,TIME_PERIOD,OBS_VALUE,UNIT_MULT
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2013,68.314,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2013,80.97,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2013,78.993,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2014,80.171,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2014,70.269,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2014,82.057,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2016,70.881,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2016,81.616,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2016,83.67,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2015,83.874,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2015,72.756,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2015,82.222,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2010,78.58,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2010,68.814,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2010,80.608,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2011,79.518,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2011,67.056,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2011,77.35,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2012,80.929,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2012,69.485,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2012,79.181,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,1999,81.414,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,1999,69.586,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,1999,83.893,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2001,81.781,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2001,65.626,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2001,79.162,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2000,82.55,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2000,63.482,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2000,79.248,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2002,66.023,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2002,81.543,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2002,78.815,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2005,73.822,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2005,61.26,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2005,76.238,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2003,77.256,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2003,58.391,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2003,74.264,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2004,55.892,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2004,71.575,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2004,74.675,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2009,67.973,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2009,81.631,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2009,79.568,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2006,72.697,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2006,56.244,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2006,75.496,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2008,77.89,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2008,62.57,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2008,75.601,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2007,77.269,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2007,60.585,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2007,74.917,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,1995,23.575,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,1995,13.845,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,1995,17.01,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,1995,86.155,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,1995,82.99,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,1995,76.425,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,1996,85.272,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,1996,76.102,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,1996,82.112,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2021,80.579,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2021,70.364,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2021,82.952,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2022,83.013,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2022,71.219,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2022,80.945,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2019,80.992,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2019,70.547,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2019,83.259,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2018,82.629,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2018,72.866,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2018,80.544,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2020,82.054,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2020,72.835,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2020,84.067,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,1997,85.674,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,1997,75.764,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,1997,83.015,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2017,81.048,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2017,72.215,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2017,83.049,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,1998,73.495,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,1998,85.505,0
+EXGR_DVA,Domestic value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,1998,83.221,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2010,21.42,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2010,19.392,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2010,31.186,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2014,29.731,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2014,19.829,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2014,17.943,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2017,27.785,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2017,18.952,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2017,16.951,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2022,28.781,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2022,19.055,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2022,16.987,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2020,27.165,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2020,17.946,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2020,15.933,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2019,16.741,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2019,19.008,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2019,29.453,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2018,27.134,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2018,17.371,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2018,19.456,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2016,16.33,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2016,18.384,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2016,29.119,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2013,31.686,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2013,21.007,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2013,19.03,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2012,30.515,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2012,20.819,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2012,19.071,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2005,38.74,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2005,26.178,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2005,23.762,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2011,20.482,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2011,22.65,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2011,32.944,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2009,32.027,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2009,20.432,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2009,18.369,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2021,29.636,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2021,19.421,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2021,17.048,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2007,39.415,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2007,25.083,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2007,22.731,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2008,22.11,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2008,24.399,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2008,37.43,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2003,41.609,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2003,25.736,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2003,22.744,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2015,16.126,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2015,17.778,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2015,27.244,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2006,43.756,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2006,27.303,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2006,24.504,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2004,44.108,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2004,25.325,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2004,28.425,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2002,33.977,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2002,21.185,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2002,18.457,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2001,18.219,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2001,20.838,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2001,34.374,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,2000,36.518,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,2000,20.752,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,2000,17.45,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,1997,14.326,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,1997,16.985,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,1997,24.236,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,1999,30.414,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,1999,18.586,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,1999,16.107,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,1998,26.505,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,1998,14.495,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,1998,16.779,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C26,"Manufacture of computer, electronic and optical products",W,World,PT_EXGR,1996,23.898,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),C,Manufacturing,W,World,PT_EXGR,1996,17.888,0
+EXGR_FVA,Foreign value added in gross exports,CHN,China (People’s Republic of),_T,Total - All activities,W,World,PT_EXGR,1996,14.728,0

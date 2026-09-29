@@ -48,4 +48,4 @@ Os dados pertencem às respectivas fontes e são redistribuídos aqui apenas par
 
 ## Como citar
 
-GASS, Nicolas Silvério. Geopolítica e cadeias globais de valor: dados e rotinas da monografia. 2026. Repositório GitHub. Disponível em: [endereço do repositório]. Acesso em: [data].
+GASS, Nicolas Silvério. Geopolítica e cadeias globais de valor: dados e rotinas da monografia. 2026. Repositório GitHub. Disponível em: https://github.com/nicolassilveriogass-cpu/tcc-semicondutores-cgv. Acesso em: [data em que você acessou].

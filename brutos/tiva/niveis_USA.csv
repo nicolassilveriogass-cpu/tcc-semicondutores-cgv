@@ -1,0 +1,505 @@
+MEASURE,Measure,REF_AREA,Reference area,ACTIVITY,Economic activity,COUNTERPART_AREA,Counterpart area,UNIT_MEASURE,TIME_PERIOD,OBS_VALUE,UNIT_MULT
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,11259.048,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2001,52287.323,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2001,64855.685,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,1995,54255.68,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,1995,42788.232,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,10335.48,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2002,62024.908,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2002,49750.566,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,9229.188,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,1996,57876.924,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,1996,45628.561,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,10704.476,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,9608.055,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2003,57111.061,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2003,74198.291,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,1998,60383.975,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,1998,50193.291,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,10324.116,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2004,94504.362,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2004,72710.055,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,11800.799,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,1997,62718.944,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,1997,51261.429,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,10352.297,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,11672.01,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2005,87583.386,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2005,114846.821,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2000,78707.14,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2000,63578.555,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,14800.395,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2010,165827.646,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2010,120152.482,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,8121.598,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2015,162889.301,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2015,118097.662,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,5442.979,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2009,122858.73,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2009,89958.208,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,7412.637,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,12891.545,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2007,118665.31,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2007,158148.362,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2006,137049.55,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2006,104993.686,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,13225.106,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2016,147587.394,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2016,105976.573,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,5611.172,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2013,202890.363,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2013,148631.247,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,5898.318,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,12110.396,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,1999,52749.417,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,1999,64298.191,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2021,173515.749,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2021,114976.175,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,5969.233,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2014,208348.281,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2014,150868.986,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,5541.721,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,6507.14,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2012,159998.145,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2012,217250.173,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2011,215187.959,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2011,157336.752,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,8000.098,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2022,220232.465,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2022,140789.509,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,8518.441,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2020,131250.226,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2020,87962.508,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,5022.094,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,5268.826,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2019,111355.763,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2019,166553.427,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2008,197963.081,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2008,147947.594,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,12827.447,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2019,2434835.092,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,313832.732,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2019,20903221.84,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,243095.007,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2010,14677524.261,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2010,1825482.752,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2011,1905484.44,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2011,15210451.115,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,241010.278,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2016,2147838.341,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2016,18284408.111,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,272202.891,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2014,2097625.381,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2014,17129187.426,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,254440.953,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,247313.517,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2013,16420897.629,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2013,2034839.582,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2012,1978924.708,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2012,15834435.496,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,244343.867,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,226472.052,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2009,14126744.71,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2009,1717218.404,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,309399.7,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2018,2385172.579,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2018,20071757.136,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2017,2251015.026,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2017,19061273.495,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,284577.182,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,271059.134,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2015,17791165.423,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2015,2173798.659,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,97537.921,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,1998,438040.312,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,1998,833612.848,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2018,1234686.03,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,53538.859,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2018,490399.684,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2007,391755.791,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,60724.674,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2007,819186.043,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,52133.748,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2010,393062.287,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2010,899245.013,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,1997,248509.417,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,49536.891,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,1997,451280.502,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,52150.019,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2001,264629.401,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2001,501571.879,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,49370.954,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2020,787145.394,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2020,353690.078,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,51481.28,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2021,932393.798,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2021,403324.706,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2005,538102.284,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2005,280919.153,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,53105.716,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,1999,448271.816,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,1999,241862.28,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,61114.707,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,1995,382152.055,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,1995,203504.045,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,56215.859,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2009,1434232.774,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2009,655229.41,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,92851.115,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,109651.253,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,1997,489795.804,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,1997,894703.289,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,136251.019,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2000,550863.703,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,1995,763229.42,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,176474.149,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2002,10634505.172,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2002,1498023.511,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2003,11155435.295,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2003,1553208.885,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,196675.626,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,230121.76,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2000,1576215.332,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2000,9971827.832,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,1996,1319774.326,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,1996,7841282.406,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,167377.09,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,177622.852,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2001,10303981.401,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2001,1495886.409,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,1995,1275936.769,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,1995,7415286.266,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,157210.728,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2008,1850374.968,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2008,14405209.672,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,236237.866,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,190899.864,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,1999,9362837.233,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,1999,1512810.295,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,1998,1456200.25,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,1998,8806257.479,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,195871.083,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,199413.801,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,1997,8334995.254,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,1997,1407437.639,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2005,1725183.459,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2005,12696554.438,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,214599.005,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2004,1640618.834,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2004,11892397.666,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,204662.164,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2007,1894470.134,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2007,14103726.807,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,232420.42,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2006,13446804.249,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2006,1831430.63,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,227401.843,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2009,565271.287,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,85438.497,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2009,1311374.15,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2017,751264.234,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,99124.085,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2017,1944717.996,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,89575.607,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2004,458949.729,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2004,970708.659,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,54008.718,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2013,488104.395,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2013,1105770.624,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2015,1084891.864,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2015,454337.611,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,56753.012,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,49812.17,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2019,991964.044,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2019,417370.099,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,50021.556,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,1998,248419.315,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,1998,453605.26,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,46336.548,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2009,654350.768,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2009,318432.007,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,56796.083,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,1996,211760.673,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,1996,399691.603,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,110838.475,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2014,951601.656,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2014,2115918.331,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2001,505273.867,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,1999,930230.971,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,1996,813838.03,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,1996,436026.532,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,102616.297,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2022,878033.428,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,96650.719,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2022,2428926.352,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2019,772344.226,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,96587.821,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2019,2074511.635,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2001,884441.333,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,99477.225,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2001,452986.545,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2008,1476772.447,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,106182.472,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2008,676129.841,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2020,1125297.539,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,53954.242,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2020,402784.416,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,121450.623,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2000,487285.146,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2000,936228.853,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2017,1144531.349,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2017,451162.365,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,53953.133,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2005,639751.355,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2005,313470.592,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,50898.361,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2009,779882.006,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2009,336797.403,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,46514.568,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2011,1046006.728,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2011,465860.086,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2003,251021.72,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,45621.955,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2003,510298.843,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,1996,224265.859,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,45820.214,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,1996,414146.427,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,51603.083,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2016,403556.798,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2016,925918.022,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,53074.017,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2013,928432.739,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2013,446550.456,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2001,447725.138,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2001,240644.465,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,58586.254,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2021,2257322.755,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2021,895579.546,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,110515.961,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,105894.521,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2010,769947.849,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2010,1667796.742,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2000,1014935.995,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2001,949297.017,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,110736.273,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,5685.005,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2018,123203.714,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2018,178267.346,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2017,163993.903,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2017,113309.529,6
+EXGR_FVA,Foreign value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,6247.894,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2010,649795.346,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,97772.919,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2010,1501969.068,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,103795.746,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,1999,448063.942,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,1999,865932.784,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2003,873003.963,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2003,420712.27,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,84856.318,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,1995,708973.752,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,1995,366109.309,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,86362.274,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2022,569910.348,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,53372.332,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2022,1581627.985,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,66387.187,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2000,291226.39,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2000,535610.597,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,53083.36,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2018,439779.25,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2018,1014074.271,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,51796.828,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2022,448912.586,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2022,1067530.829,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,50935.374,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2015,922713.849,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2015,417786.208,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2002,224605.524,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,50474.518,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2002,430021.999,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2008,756278.942,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2008,388501.454,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,58652.644,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,1997,443422.787,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,1997,241286.387,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,60114.361,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2019,2241065.007,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2019,883699.95,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,101856.643,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,119009.918,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2008,824077.424,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2008,1674735.518,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,107688.387,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2015,872123.819,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2015,2007605.712,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2007,748792.47,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2007,1511642.573,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,120341.014,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,107862.042,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,1998,488233.621,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,1998,893996.843,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2020,1781192.764,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,98303.107,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2020,668512.024,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2018,2070492.974,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,100937.216,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2018,806975.236,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2007,1353494.218,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,107449.47,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2007,630127.166,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2019,466329.851,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,52044.473,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2019,1249100.963,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2004,280502.865,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,48460.418,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2004,577931.253,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2002,246786.775,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,45932.893,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2002,489924.996,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,57840.487,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,1998,239814.305,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,1998,440391.583,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,52915.988,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2004,251156.919,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2004,487281.769,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2012,1980174.94,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2012,921951.613,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,111724.041,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2013,2034203.363,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2013,934654.851,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,107082.735,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2021,2083807.03,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,104546.729,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2021,780603.387,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2015,754026.182,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,102245.41,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2015,1844716.443,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2012,761953.467,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,105216.901,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2012,1762924.765,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,99298.96,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,1997,438534.39,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,1997,831984.364,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,55941.58,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2014,489654.842,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2014,1144398.854,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2008,435575.97,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,60357.274,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2008,918456.576,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2010,768551.729,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2010,376885.562,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,53760.774,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,57053.385,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2012,893462.282,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2012,435672.398,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2000,259637.313,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,69863.832,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2000,479325.397,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,105371.976,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2017,864573.742,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,106622.219,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2018,930178.935,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2018,2248760.301,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,106019.292,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2016,831492.097,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2016,1970250.884,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2014,800732.714,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,105296.758,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2014,1907570.105,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2016,725515.552,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,100408.123,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2016,1822663.527,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,87178.223,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2002,421641.735,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2002,857922.088,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,91911.826,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,1996,390397.985,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,1996,755961.122,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2016,427935.298,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,54416.209,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2016,1044332.863,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2006,359088.191,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,59182.661,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2006,729370.886,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,1999,258951.076,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,54791.435,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,1999,481959.155,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,51418.844,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2017,964180.523,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2017,413411.377,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,40481.891,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,1995,205393.486,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,1995,381077.365,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,56377.242,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2011,851551.357,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2011,419178.341,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,57347.091,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2006,318074.031,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2006,606814.325,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2003,436903.411,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2003,226801.611,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,48842.418,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2020,1912442.933,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2020,756474.494,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,103325.196,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2017,2108711.872,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2006,1336185.211,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2006,677162.223,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,116529.753,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,110333.17,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2011,1897558.086,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2011,885038.427,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,104004.077,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2005,594389.744,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2005,1177853.639,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2004,1065213.022,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2004,531659.784,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,101376.406,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,94464.373,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2003,477823.33,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2003,947202.254,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,115906.141,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,1999,500813.356,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,96697.75,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,345205.557,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2021,22938792.921,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2021,2597522.867,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2020,2299621.348,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2020,20722951.278,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,322149.567,6
+VALU,Value added,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,352870.24,6
+VALU,Value added,USA,United States,_T,Total - All activities,W,World,USD,2022,25087861.281,6
+VALU,Value added,USA,United States,C,Manufacturing,W,World,USD,2022,2895667.099,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,103304.645,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2006,572168.533,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2006,1199135.657,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2013,786023.629,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,101184.418,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2013,1831313.031,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2011,1682370.131,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,102333.073,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2011,727701.679,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,_T,Total - All activities,W,World,USD,2005,1063006.817,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C,Manufacturing,W,World,USD,2005,506806.357,6
+EXGR_DVA,Domestic value added in gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,92332.067,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2012,1086712.658,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2012,486279.214,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,54670.656,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,59034.681,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C,Manufacturing,W,World,USD,2021,492254.839,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,_T,Total - All activities,W,World,USD,2021,1324928.957,6
+EXGR_INT,Gross exports of intermediate products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,53955.928,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,54896.896,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2014,971519.476,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2014,461946.813,6
+EXGR_FNL,Gross exports of final products,USA,United States,_T,Total - All activities,W,World,USD,2007,692456.53,6
+EXGR_FNL,Gross exports of final products,USA,United States,C,Manufacturing,W,World,USD,2007,357036.679,6
+EXGR_FNL,Gross exports of final products,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,59616.34,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,105169.159,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2022,1018822.934,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2022,2649158.815,6
+EXGR,Gross exports,USA,United States,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,96407.411,6
+EXGR,Gross exports,USA,United States,_T,Total - All activities,W,World,USD,2002,919946.995,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,2002,471392.3,6
+EXGR,Gross exports,USA,United States,C,Manufacturing,W,World,USD,1995,408897.531,6

@@ -1,0 +1,505 @@
+MEASURE,Measure,REF_AREA,Reference area,ACTIVITY,Economic activity,COUNTERPART_AREA,Counterpart area,UNIT_MEASURE,TIME_PERIOD,OBS_VALUE,UNIT_MULT
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2018,316058.115,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2018,188539.718,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,25940.44,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,12981.807,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2001,42585.038,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2001,44950.244,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1995,20467.854,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1995,19193.231,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,5409.53,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2002,47434.624,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2002,44801.513,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,13390.604,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1996,25904.233,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1996,24029.959,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,6194.699,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,15577.81,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2003,48924.297,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2003,52205.839,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1998,34078.428,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1998,32034.365,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,9131.008,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2004,56974.147,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2004,53282.437,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,16205.557,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1997,30244.018,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1997,28276.059,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,7773.273,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,17706.571,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2005,59074.736,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2005,63544.252,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2000,48035.621,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2000,45154.831,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,13520.684,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2010,90105.069,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2010,83465.729,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,26738.355,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2015,121912.799,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2015,112616.957,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,27689.671,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2009,68191.713,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2009,63073.063,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,21297.209,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,22776.77,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2007,74132.041,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2007,79813.374,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2006,73560.791,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2006,68630.879,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,21462.404,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2016,124934.419,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2016,114672.527,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,27282.575,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2013,119167.42,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2013,110154.51,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,30842.04,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,11064.196,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1999,37853.141,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1999,40002.608,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2021,168174.042,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2021,151835.154,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,35279.678,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2014,120533.68,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2014,111936.334,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,28374.72,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,27693.314,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2012,102253.299,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2012,110965.426,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2011,103140.183,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2011,94958.404,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,27023.981,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2022,202638.787,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2022,179633.476,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,39894.714,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2020,132407.811,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2020,121898.852,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,31279.208,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,31504.423,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2019,137488.517,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2019,150847.695,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,19338.996,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2002,787561.293,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2002,156140.986,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2003,747816.122,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2003,147595.243,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,18678.546,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,25329.526,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2000,159728.82,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2000,728512.622,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,1996,96635.723,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,1996,425675.627,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,11561.632,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,24764.716,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2001,776870.227,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2001,162505,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,1995,79863.534,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,1995,372005.617,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,7890.958,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2008,1142816.904,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2008,205483.751,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,18052.395,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,20352.75,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,1999,614578.34,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,1999,134637.575,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,1998,125243.472,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,1998,545255.646,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,20171.391,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,16753.901,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,1997,513696.629,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,1997,118146.18,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2005,165622.218,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2005,898673.936,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,16397.191,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2004,154035.363,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2004,801038.025,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,15622.501,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2007,200377.528,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2007,1082636.526,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,18645.17,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2006,1002290.6,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2006,192602.938,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,17752.978,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,29211.672,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2021,202362.956,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2021,342758.747,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2017,291458.974,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2017,171558.972,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,25614.226,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1999,101909.476,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1999,58158.403,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,12788.233,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,14109.006,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2003,61939.233,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2003,117768.598,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2019,194432.807,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2019,119641.309,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,21037.117,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2007,136328.968,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2007,70031.612,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,12079.571,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2009,112831.403,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2009,61886.796,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,13098.272,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2010,144002.435,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2010,77776.783,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,14941.396,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2001,61329.74,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2001,35424.684,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,7675.465,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2000,68743.317,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2000,38069.288,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,8280.803,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2004,88933.467,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2004,48294.103,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,10331.28,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,48378.961,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2022,259842.531,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2022,348979.094,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,33736.226,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2013,274685.308,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2013,150445.56,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,22763.831,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2011,257223.55,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2011,130273.265,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,21504.399,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,18737.922,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2006,95990.308,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2006,189095.976,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,14999.417,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2004,72852.023,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2004,141572.65,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2018,191209.274,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2018,115230.58,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,19277.319,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2006,123178.526,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2006,64348.369,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,11747.271,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,1999,54821.339,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,1999,32864.459,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,6847.995,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2017,192110.9,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2017,256774.547,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,37942.584,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,3333.755,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,1995,19293.732,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,1995,35188.321,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2002,105889.723,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,20739.469,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2002,75780.438,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2008,115597.607,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2008,156692.1,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,35726.189,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,1999,87090.745,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,17004.434,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,1999,63147.084,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,1995,48027.241,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,7748.113,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,1995,32917.402,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2018,331248.952,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,60323.976,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2018,474455.209,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2008,194182.05,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,50466.608,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2008,305868.366,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2015,274378.177,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,52712.981,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2015,393800.562,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2010,196475.743,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,48677.622,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2010,307363.435,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2000,169850.273,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1996,62675.674,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,12946.828,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1996,100783.959,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1995,52211.134,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,15558.861,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2001,64607.795,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2001,116562.912,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2007,206692.992,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2007,103933.74,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,19011.728,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2008,216143.726,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2008,110533.559,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,21782.87,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1998,88117.538,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1998,50213.589,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,11166.325,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2021,210568.078,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2021,128237.082,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,22642.173,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2013,177517.528,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2013,96385.805,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,14972.56,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2015,161067.666,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2015,101645.493,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,14862.793,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2005,105595.022,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2005,55153.911,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,9608.246,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2003,74787.647,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2003,42284.354,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,9024.218,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,1998,46812.178,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,1998,28551.901,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,5773.7,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2018,283245.936,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,41046.657,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2018,216018.372,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2013,216335.169,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,38633.296,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2013,164214.236,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,23782.166,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2005,85053.859,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2005,120673.594,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,1997,67576.133,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,11946.899,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,1997,47608.625,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2021,510932.75,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,64491.336,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2021,354198.074,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,58365.426,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2020,423015.252,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2020,300356.349,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2001,107192.832,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,28540.667,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2001,161513.156,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1999,141912.084,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2010,118698.96,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2010,163361,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2012,204714.911,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,37328.719,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2012,151720.654,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2001,100183.416,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,20865.202,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2001,71768.148,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2013,260600.041,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,53605.857,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2013,393852.697,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2016,270511.51,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,51557.043,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2016,388559.078,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2008,89724.645,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2008,83648.496,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,28683.741,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,34383.545,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2018,142709.258,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2018,158397.119,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2017,138240.872,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2017,126668.175,6
+EXGR_FVA,Foreign value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,29544.294,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,14602.677,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2002,66952.819,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2002,123112.058,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1995,33017.904,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,5672.339,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1995,62747.71,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2022,250503.342,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2022,149312.973,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,25174.326,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2011,174793.777,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2011,88897.034,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,13774.293,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2012,176836.627,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2012,91738.82,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,13417.909,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,38018.15,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2020,252041.71,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2020,194069.51,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2014,235798.065,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,38459.425,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2014,176489.59,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,29708.926,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2007,150177.395,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2007,108034.167,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2000,101106.956,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,20761.418,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2000,72350.698,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2022,409155.504,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,73553.287,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2022,599482.436,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2003,110863.529,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,29686.816,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2003,169974.437,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,33390.412,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2005,140207.769,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2005,226268.616,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2022,396843.655,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2022,229522.034,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,33658.574,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2020,290607.525,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2020,178457.577,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,27086.253,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,19651.247,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2009,90747.206,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2009,174586.979,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,6752.129,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1996,38645.717,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1996,74879.727,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2016,159118.165,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2016,100879.046,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,16578.688,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2014,178537.158,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2014,99926.583,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,14361.639,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,1997,47574.303,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,1997,26182.562,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,4990.399,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,39440.816,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2019,289766.699,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2019,216897.504,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2006,100272.82,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2006,139478.244,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,28453.056,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2014,276416.173,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,52821.064,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2014,414335.224,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2009,153820.189,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,40948.408,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2009,242778.609,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2004,126134.461,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,31204.974,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2004,198546.797,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2002,111754.332,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,27993.281,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2002,170546.681,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1995,83215.562,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2019,1274575.806,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2019,261006.98,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,23193.489,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,15112.182,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2010,1084472.089,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2010,195942.325,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2011,215656.024,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2011,1212060.832,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,15536.704,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2016,222043.958,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2016,1082148.696,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,19404.727,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2014,246492.667,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2014,1334357.912,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,18028.646,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,16429.851,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2013,1303494.602,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2013,238207.531,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2012,232902,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2012,1243696.879,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,16511.863,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,13332.533,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2009,922417.637,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2009,162543.287,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,21210.52,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2018,253187.256,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2018,1219482.387,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2017,239359.207,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2017,1166122.731,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,20410.252,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,20210.907,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2015,1183945.939,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2015,240686.912,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2019,333351.888,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2019,199050.369,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,28973.54,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2012,270586.111,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2012,141206.173,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,23053.313,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,9164.026,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1997,45515.129,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1997,84906.42,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2008,149176.265,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2008,78584.443,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,14740.419,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,1996,43530.532,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,1996,22881.011,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,3928.196,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,34978.355,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2016,169632.464,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2016,229440.914,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2003,95186.79,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,20662.598,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2003,68579.175,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,27850.135,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2009,129947.205,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2009,91933.393,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,1996,57253.427,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,9018.633,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,1996,39794.664,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2017,298227.114,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,55158.506,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2017,429699.811,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2007,178065.778,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2007,286506.363,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,41788.497,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2000,121814.652,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2000,65265.154,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,15521.536,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2017,172925.264,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2017,106116.214,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,17215.922,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2002,64656.959,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2002,35973.894,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,7253.812,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,37850.188,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2015,172732.685,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2015,232732.896,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,1998,75383.792,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,14523.635,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,1998,53696.057,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,20873.693,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2004,77840.358,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2004,109613.331,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2006,164621.189,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,40200.327,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2006,262656.77,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,48528.378,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2011,360363.728,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2011,225231.665,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1997,73791.187,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,16937.299,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1997,115150.436,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2000,110419.986,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,29042.221,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1998,82247.958,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,20297.335,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,1998,122195.97,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,11081.868,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,22625.527,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2021,1283148.664,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2021,275569.766,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2020,227254.21,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2020,1089949.476,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,19843.794,6
+VALU,Value added,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,26760.04,6
+VALU,Value added,MEX,Mexico,_T,Total - All activities,W,World,USD,2022,1446972.141,6
+VALU,Value added,MEX,Mexico,C,Manufacturing,W,World,USD,2022,316433.069,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2010,217258.341,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2010,113009.99,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,21939.253,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2014,293801.596,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2014,164479.889,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,24446.366,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2015,271887.797,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2015,161761.254,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,25023.324,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2016,263624.704,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2016,155839.026,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,24274.486,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2005,162724.363,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2005,81133.032,6
+EXGR_DVA,Domestic value added in gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,15683.841,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,_T,Total - All activities,W,World,USD,2020,170973.543,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C,Manufacturing,W,World,USD,2020,106286.839,6
+EXGR_INT,Gross exports of intermediate products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,20347.275,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2021,300364.673,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,41849.162,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2021,225960.992,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,34754.085,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,C,Manufacturing,W,World,USD,2011,136334.631,6
+EXGR_FNL,Gross exports of final products,MEX,Mexico,_T,Total - All activities,W,World,USD,2011,185569.951,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2019,336538.813,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,60477.933,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2019,484199.506,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,2012,243459.473,6
+EXGR,Gross exports,MEX,Mexico,_T,Total - All activities,W,World,USD,2012,381551.538,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,50746.628,6
+EXGR,Gross exports,MEX,Mexico,C,Manufacturing,W,World,USD,1999,96011.544,6
+EXGR,Gross exports,MEX,Mexico,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,23852.429,6

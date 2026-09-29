@@ -1,0 +1,505 @@
+MEASURE,Measure,REF_AREA,Reference area,ACTIVITY,Economic activity,COUNTERPART_AREA,Counterpart area,UNIT_MEASURE,TIME_PERIOD,OBS_VALUE,UNIT_MULT
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,13753.939,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2001,39837.311,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2001,47323.615,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1995,35952.606,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1995,29817.077,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,10419.627,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2002,49310.25,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2002,42441.989,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,14620.772,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1996,38863.373,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1996,32181.836,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,10302.825,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,19009.731,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2003,54638.287,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2003,61796.088,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1998,40923.246,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1998,33009.819,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,10420.065,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2004,85562.072,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2004,75489.867,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,25342.706,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1997,43430.591,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1997,35546.54,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,11292.605,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,28653.901,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2005,91719.72,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2005,101002.907,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2000,56402.749,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2000,47403.79,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,17869.21,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2010,193366.391,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2010,173615.998,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,43241.327,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2015,189263.357,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2015,168095.137,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,41978.443,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2009,153358.425,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2009,138530.125,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,35424.358,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,35426.96,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2007,130482.488,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2007,143895.199,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2006,121906.859,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2006,111366.701,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,31910.401,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2016,168275.379,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2016,146774.874,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,38782.395,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2013,260760.42,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2013,234572.143,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,49159.412,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,12095.379,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1999,34558.113,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1999,41436.155,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2021,230079.105,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2021,198029.026,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,49753.785,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2014,248079.402,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2014,222665.394,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,44152.865,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,49735.358,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2012,248408.324,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2012,275095.096,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2011,268087.859,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2011,243733.161,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,55192.328,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2022,286433.321,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2022,247328.897,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,57809.854,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2020,173093.764,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2020,150084.896,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,38304.227,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,41249.853,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2019,173177.689,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2019,198131.325,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2008,194985.047,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2008,175860.901,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,40536.802,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,23126.877,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1997,79457.915,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1997,111797.999,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2016,279616.459,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,97272.786,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2016,355214.193,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2014,319375.189,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,91316.117,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2014,401337.976,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2005,141308.369,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,45570.694,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2005,181623.427,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2003,87607.632,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,28134.998,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2003,114951.416,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2020,170516.103,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2020,213958.491,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,46576.574,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,54158.964,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2014,286047.724,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2014,232269.738,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,1998,51040.644,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,1998,66519.178,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,19122.644,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,42963.317,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2004,102125.737,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2004,126088.736,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2018,556447.843,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2018,697261.763,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,190031.437,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2008,379209.866,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2008,479347.921,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,109086.654,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2015,489127.19,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2015,611906.38,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,144566.717,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2009,330262.893,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2009,411342.182,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,102082.769,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2001,127027.112,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2001,167917.88,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,45441.881,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2005,251541.308,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2005,317848.685,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,90728.434,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1996,108216.742,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1996,145034.44,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,33492.109,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,129254.775,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2017,447739.086,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2017,344459.126,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,91028.386,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2012,391784.06,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2012,293851.826,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,27907.163,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1999,116025.596,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1999,84024.714,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,42781.195,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2003,150081.631,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2003,111128.279,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2018,348918.683,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,125314.58,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2018,437517.494,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,23696.542,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1995,104223.622,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1995,74646.865,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2011,304411.713,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,84167.902,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2011,373433.754,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2012,310844.849,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,84678.045,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2012,388193.167,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2000,70793.188,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,21233.275,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2000,98013.316,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2004,118190.146,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,37972.055,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2004,155018.315,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,1996,54831.874,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,12179.344,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,1996,77028.269,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,44268.803,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2016,180184.473,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2016,225676.658,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2011,225806.75,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2011,270908.451,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,64998.984,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2020,580946.062,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,144144.533,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2020,452971.806,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2012,542260.156,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,140763.746,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2012,666879.167,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2004,220315.883,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2004,281107.051,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,80935.372,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1999,118582.824,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1999,157461.745,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,40002.54,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,125115.904,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2022,495036.602,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2022,357375.973,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,85812.275,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2010,326597.309,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2010,244078.141,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,101322.241,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2014,439306.383,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2014,328979.612,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,102588.293,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2015,422643.076,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2015,321032.101,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2008,284362.885,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2008,203348.978,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,68549.856,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,66658.477,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2009,257983.949,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2009,191732.931,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2019,307726.849,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,101275.192,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2019,392290.958,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2002,69540.636,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,21451.456,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2008,224522.713,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,61302.422,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2008,287413.308,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2007,193571.696,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,63532.265,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2007,250132.131,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,1998,55832.413,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,12460.242,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,1998,77735.953,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2021,571720.146,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2021,741469.242,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,183642.298,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2001,64203.591,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2001,81007.249,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,27555.698,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2014,551644.927,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2014,687385.701,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,145475.08,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2007,334862.969,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2007,422447.81,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,110680.614,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2000,143373.019,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2000,188930.364,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,54441.06,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,138862.753,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2018,476248.017,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2018,361115.893,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,102759.215,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2016,313026.111,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2016,412615.531,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,31687.942,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2001,120594.266,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2001,87189.802,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2007,278552.617,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2007,204380.488,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,75253.656,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,21162.817,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1998,103331.867,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1998,73863.222,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2009,191416.011,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,57444.552,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2009,239616.849,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2010,233041.801,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,72321.062,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2010,296259.431,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2001,62823.522,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,17886.184,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2001,86910.631,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2010,184652.382,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2010,223704.323,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,56732.558,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2012,231415.308,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2012,278686,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,56085.701,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,1997,55713.442,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,1997,71280.345,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,21636.307,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2013,551200.597,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2013,678400.086,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,149734.616,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2016,459800.932,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2016,580890.851,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,141541.589,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,51168.695,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2018,195331.975,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2018,221013.773,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2017,197168.426,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2017,176088.331,6
+EXGR_FVA,Foreign value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,50041.948,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,62074.532,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2005,216845.776,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2005,159821.586,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2021,360097.713,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,123401.062,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2021,473032.842,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,1997,59290.996,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,12783.17,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,1997,83948.224,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2018,207529.16,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2018,259744.27,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,64716.857,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2013,230137.112,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2013,277683.189,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,56204.873,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2002,69014.634,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2002,86073.732,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,29370.696,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2008,154687.153,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2008,191934.614,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,47784.232,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,1999,58694.86,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,1999,74841.173,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,24627.866,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,1995,53340.804,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,1995,68096.226,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,21918.852,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2003,165766.566,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2003,211877.719,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,61790.925,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2010,417694.183,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2010,519963.754,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,129053.621,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,34642.131,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2002,586759.711,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2002,161201.664,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2003,659593.241,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2003,179167.303,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,38719.468,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,34766.71,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2000,156966.33,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2000,541129.511,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,1996,149572.677,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,1996,573726.05,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,24053.733,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,30045.062,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2001,513144.14,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2001,142394.666,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,1995,142090.302,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,1995,533060.415,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,25512.267,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,60865.724,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2008,286478.682,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2008,993044.261,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,26704.492,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,1999,468008.531,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,1999,129406.385,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,1998,99498.993,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,1998,364734.732,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,18827.805,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,21655.481,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,1997,535883.616,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,1997,142991.517,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2005,252986.443,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2005,881921.523,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,55029.592,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2004,218938.276,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2004,749805.702,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,49012.908,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2007,314987.774,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2007,1107350.915,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,68524.521,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2006,993068.372,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2006,281550.876,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,61739.602,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,105840.344,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2020,407852.408,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2020,302887.002,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,36201.381,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2002,130199.345,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2002,96113.282,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2020,282455.702,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,97567.959,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2020,366987.572,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,23189.288,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1996,76034.921,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1996,106171.087,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2022,222219.037,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2022,279841.207,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,61170.283,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2019,183245.432,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2019,234908.165,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,48823.397,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2005,110232.939,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2005,136225.259,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,45157.74,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2022,604704.869,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2022,781469.925,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,182925.757,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2006,289618.045,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2006,361671.441,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,99692.195,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,149166.887,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2011,644342.205,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2011,530218.463,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1997,115004.437,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1997,155228.569,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,34419.478,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,120427.057,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2019,455929.787,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2019,1570136.211,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,76166.859,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2010,1087242.487,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2010,335212.363,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2011,379104.608,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2011,1194666.462,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,85189.957,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2016,428358.788,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2016,1426365.146,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,103896.065,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2014,436484.859,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2014,1418378.378,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,103213.808,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,97769.251,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2013,1310575.935,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2013,411863.349,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2012,383687.069,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2012,1219762.12,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,88241.628,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,57636.004,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2009,896085.414,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2009,260115.874,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,144512.387,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2018,495858.027,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2018,1639349.019,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2017,469434.985,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2017,1541693.965,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,129044.355,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,99247.784,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2015,1394702.248,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2015,420438.621,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,133888.531,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2021,511390.186,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2021,373691.165,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,108848.769,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2019,429067.89,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2019,317794.673,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,36571.849,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2000,132527.612,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2000,95969.226,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2017,323753.777,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,120305.044,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2017,402817.197,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2006,166765.853,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,54759.556,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2006,211582.211,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,1999,59887.964,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,15374.675,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,1999,82620.572,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2017,196793.639,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2017,242090.27,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,58991.661,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,12197.315,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,1995,51123.127,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,1995,72079.989,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2003,78158.934,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2003,96926.304,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,33655.927,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2009,138846.882,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2009,171725.333,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,44638.217,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2019,490972.281,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2019,627199.123,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,150098.59,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,150886.014,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2021,1847926.754,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2021,534616.205,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2020,442857.713,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2020,1560565.042,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,122360.419,6
+VALU,Value added,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,133554.258,6
+VALU,Value added,KOR,Korea,_T,Total - All activities,W,World,USD,2022,1721251.92,6
+VALU,Value added,KOR,Korea,C,Manufacturing,W,World,USD,2022,503810.18,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,100575.219,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2013,417639.711,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2013,316628.5,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,93974.561,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2011,376254.351,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2011,286485.309,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,67781.791,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2006,239764.577,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2006,178251.341,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,55592.666,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2004,144826.016,6
+EXGR_DVA,Domestic value added in gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2004,195544.977,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2022,382485.832,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,121755.474,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2022,501628.718,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2013,321063.485,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,93529.743,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2013,400716.897,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,98076.245,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2015,372866.372,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,C,Manufacturing,W,World,USD,2015,295497.698,6
+EXGR_INT,Gross exports of intermediate products,KOR,Korea,_T,Total - All activities,W,World,USD,2002,93435.861,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2021,211622.433,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2021,268436.4,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,60241.236,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2015,193629.492,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2015,239040.008,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,46490.472,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2007,141291.273,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2007,172315.679,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,47148.35,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2006,122852.193,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2006,150089.23,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,44932.639,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,2000,72579.83,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,2000,90917.048,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,33207.785,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C,Manufacturing,W,World,USD,1996,53384.867,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,_T,Total - All activities,W,World,USD,1996,68006.172,6
+EXGR_FNL,Gross exports of final products,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,21312.765,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2017,520547.415,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2017,644907.468,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,179296.705,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,2002,138555.27,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,2002,179509.594,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,50822.152,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1998,106873.057,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1998,144255.131,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,31582.886,6
+EXGR,Gross exports,KOR,Korea,C,Manufacturing,W,World,USD,1995,104463.931,6
+EXGR,Gross exports,KOR,Korea,_T,Total - All activities,W,World,USD,1995,140176.215,6
+EXGR,Gross exports,KOR,Korea,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,34116.167,6

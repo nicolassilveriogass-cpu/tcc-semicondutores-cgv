@@ -1,0 +1,505 @@
+MEASURE,Measure,REF_AREA,Reference area,ACTIVITY,Economic activity,COUNTERPART_AREA,Counterpart area,UNIT_MEASURE,TIME_PERIOD,OBS_VALUE,UNIT_MULT
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,22168.613,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2001,44571.784,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2001,48264.403,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1995,41293.457,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1995,38436.762,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,15839.097,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2002,53440.175,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2002,49386.62,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,24169.382,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1996,41568.69,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1996,38885.568,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,16410.157,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,27491.547,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2003,57487.867,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2003,61805.809,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1998,41058.351,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1998,37926.332,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,18444.557,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2004,82933.138,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2004,77170.384,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,37177.738,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1997,45180.36,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1997,42086.088,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,20469.829,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,40632.709,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2005,84712.469,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2005,91564.829,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2000,58161.018,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2000,54005.21,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,26297.493,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2010,149049.351,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2010,139624.574,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,65019.069,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2015,127061.631,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2015,115674.404,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,52317.665,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2009,98962.137,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2009,91690.221,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,40964.414,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,52129.335,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2007,116837.154,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2007,124868.526,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2006,109738.475,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2006,102112.637,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,47797.543,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2016,114135.619,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2016,102628.066,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,51526.31,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2013,156289.1,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2013,144595.831,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,62298.254,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,19784.06,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1999,40587.604,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1999,43877.617,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2021,140086.78,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2021,129623.613,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,55303.889,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2014,155782.474,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2014,143189.501,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,60832.743,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,63799.397,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2012,151843.222,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2012,163577.835,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2011,166224.399,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2011,155041.99,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,66717.666,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2022,161429.539,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2022,145978.055,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,64440.84,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2020,105391.135,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2020,95299.237,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,45839.917,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,45254.372,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2019,102501.695,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2019,116412.028,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2008,137222.64,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2008,128319.301,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,56320.292,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2018,183978.914,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2018,252017.917,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,101503.591,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2021,329154.204,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,152226.364,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2021,250803.943,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,30675.391,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2001,70967.772,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2001,97895.657,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2022,323664.621,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2022,256851.097,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,143903.626,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1998,86938.854,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,24597.962,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1998,63650.036,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1998,67337.14,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1998,53447.548,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,16148.587,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,12565.79,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1995,54491.948,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1995,67003.161,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2002,69430.049,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,33525.277,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2002,55355.766,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2020,293283.202,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2020,369251.062,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,164757.193,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1999,65201.925,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,30172.979,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1999,51636.659,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2016,270992.778,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2016,342866.528,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,148358.548,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2019,278677.911,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2019,362605.278,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,143688.686,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2020,197984.026,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2020,263859.992,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,118917.315,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2008,168827.331,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2008,128571.862,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,63898.42,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2003,84941.094,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,40074.318,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2003,112852.594,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,137406.861,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2021,254683.593,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2021,314966.144,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2007,192524.176,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2007,162411.176,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,68884.076,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2001,79667.585,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2001,63021.352,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,21373.027,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2018,130470.188,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,53541.789,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2018,99232.232,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2015,114251.409,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,44184.983,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2015,88070.799,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2012,130886.867,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,54796.198,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2012,106596.803,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,43082.872,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2004,70377.994,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2004,85702.358,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2017,294155.608,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2017,372458.133,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,160462.359,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,137875.831,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2010,334849.679,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2010,282829.498,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2003,174658.402,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2003,142428.961,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,67565.865,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1995,102985.373,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,88101.794,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2019,194279.522,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2019,598113.128,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,141621.178,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2021,760478.441,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2021,271455.75,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2020,221971.564,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2020,657534.306,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,111156.386,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,149351.642,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2022,743186.274,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2022,265088.384,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2009,112110.344,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2009,149666.588,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,55942.178,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2014,176555.334,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2014,232679.523,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,93029.939,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2005,105973.68,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2005,140760.583,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,51767.557,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,46833.589,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2004,97879.452,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2004,129102.207,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2018,249827.543,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2018,198508.05,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,97350.426,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2006,166341.382,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2006,139039.804,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,60462.707,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,80139.082,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2022,137682.089,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2022,176181.834,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2007,100539.24,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,46417.605,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2007,83177.113,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2018,297740.282,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2018,380297.731,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,150892.215,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2009,203800.44,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2009,248628.594,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,96906.516,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,59033.25,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2001,115539.555,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2001,146160.059,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,52844.004,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,49388.633,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2018,113761.385,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2018,128279.832,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2017,122176.474,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2017,109433.325,6
+EXGR_FVA,Foreign value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,54065.606,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2019,239589.438,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2019,187342.992,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,94584.044,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,20860.934,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1996,68680.849,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1996,91462.929,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2000,90588.925,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2000,72973.982,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,23837.403,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2021,154274.813,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,70123.379,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2021,125743.939,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2017,126293.822,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,54466.667,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2017,97116.408,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1996,62808.6,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,23787.676,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1996,50460.18,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,37685.751,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2000,62792.634,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2000,78131.779,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,143433.998,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2011,368696.625,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2011,309994.964,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,50877.367,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2008,115232.493,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2008,404661.025,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,54841.299,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2010,434925.855,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2010,131569.438,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2011,142261.727,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2011,474283.095,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,59562.655,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2016,179276.535,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2016,531868.423,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,82567.747,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2014,171856.372,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2014,526850.397,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,81199.255,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,69142.519,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2013,502737.979,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2013,154927.375,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2012,144801.877,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2012,482678.969,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,63041.053,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,44406.767,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2009,380321.143,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2009,105071.654,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2018,90923.996,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2018,201167.014,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2018,598733.271,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2017,197036.798,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2017,580712.013,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,90941.252,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,80072.239,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2015,523046.53,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2015,172627.201,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2022,338416.918,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,159601.869,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2022,248555.134,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2006,116325.055,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2006,152888.154,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,59306.435,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2011,154952.982,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2011,202472.234,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,76716.335,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1995,64548.618,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,18888.614,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1995,85942.491,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2013,249319.863,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2013,209171.89,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,95799.116,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2009,161461.869,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2009,133826.535,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,57246.594,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2002,71006.289,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,25507.973,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2002,88728.279,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2019,123015.84,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,49104.642,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2019,91334.919,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2009,87166.725,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2009,39659.921,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2009,69973.906,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,36318.123,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2003,73030.685,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2003,59231.348,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1995,60232.779,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,22161.919,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1995,48493.425,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2021,380427.531,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2021,469240.957,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2021,207530.24,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,84011.328,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2004,175049.837,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2004,212035.345,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2008,256891.152,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2008,306049.96,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,120218.706,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1996,107566.408,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1996,133031.609,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,37271.088,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,25525.375,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2002,300189.919,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2002,80823.429,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2003,312131.437,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2003,87766.26,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,31019.474,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,25981.293,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2000,86393.634,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2000,323304.79,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1996,76708.852,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1996,284106.936,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,14708.627,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,20290.191,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2001,293186.083,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2001,73199.101,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1995,73025.14,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1995,270108.657,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,13989.531,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,20351.54,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1999,296453.056,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1999,77251.043,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1998,72664.677,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1998,272463.981,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,16645.93,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,16239.036,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1997,295414.471,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1997,79525.202,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2005,105379.999,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2005,367220.98,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,38869.263,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2004,98764.713,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2004,341076.387,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,35754.976,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2007,116235.945,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2007,395521.581,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,48098.832,6
+VALU,Value added,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2006,379077.564,6
+VALU,Value added,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2006,108066.502,6
+VALU,Value added,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,45301.931,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2016,168364.752,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2016,228730.951,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,96832.261,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2000,81761.405,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2000,110559.684,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,35225.66,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2012,237887.298,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2012,200893.481,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,86662.138,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2011,235877.093,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2011,200600.974,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,81588.002,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2010,209881.042,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2010,178471.863,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,77611.645,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1997,71595.857,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1997,57693.664,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,16678.814,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2006,96285.252,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,46641.274,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2006,79397.892,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2005,89835.363,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,44608.105,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2005,73156.955,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2013,309342.046,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2013,373821.027,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,145897.964,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2019,176176.267,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2019,246193.305,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2019,98434.345,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2007,128751.143,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2007,168194.897,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,63172.348,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2010,143204.886,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2010,185800.288,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,72856.737,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2012,155647.059,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2012,205196.327,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,77658.937,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,25882.018,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1997,70184.871,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1997,94249.722,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2016,228659.119,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2016,183951.828,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,102272.356,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2014,258119.886,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2014,216163.801,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,101879.865,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2005,142490.05,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2005,117529.196,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,47792.163,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1999,73970.587,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1999,58748.251,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,18475.529,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2004,126332.987,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2004,104671.843,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2004,40928.456,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2014,130342.033,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,51982.778,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2020,122266.445,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,56658.985,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2020,98211.027,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2010,124968.638,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2010,60264.186,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2010,104357.635,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2013,124501.164,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,50098.848,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2013,100170.155,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2014,103580.958,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,26893.937,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1998,60660.076,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1998,48128.831,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2012,307490.284,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2012,368774.166,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2012,141458.336,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2000,135766.616,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2000,168720.704,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2000,61523.154,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2002,126362.055,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2002,158158.328,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1995,127235.94,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2017,184722.313,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2017,250281.69,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,106396.771,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2013,164746.259,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2013,217531.973,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2013,83599.733,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2015,173071,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2015,230786.101,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,93476.918,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2002,34863.868,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2002,76975.436,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2002,104718.154,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2020,246984.617,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2020,195072.175,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2020,108098.208,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1999,69797.307,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1999,95294.897,6
+EXGR_DVA,Domestic value added in gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,28864.449,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2015,243596.283,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2015,200674.568,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,101609.579,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2017,246164.311,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2017,197039.2,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2017,105995.693,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2008,200176.522,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2008,169007.168,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,71159.038,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1996,70223.008,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1996,57106.227,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1996,13483.412,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2003,31247.742,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2003,83197.613,6
+EXGR_INT,Gross exports of intermediate products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2003,101627.717,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2016,46086.191,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2016,87040.95,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2016,114207.409,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2011,132819.532,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2011,61845.996,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2011,109393.99,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2008,105873.438,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2008,49059.669,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2008,87883.985,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2001,66492.475,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2001,31470.977,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2001,52518.202,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1997,67834.213,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,29673.027,6
+EXGR_FNL,Gross exports of final products,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1997,54577.284,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2022,224042.707,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2022,394533.186,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2022,499846.455,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2015,288745.367,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2015,357847.692,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2015,145794.561,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2014,319744.76,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2014,388461.919,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2014,153862.643,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2007,245588.289,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2007,293063.416,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2007,115301.681,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2006,218437.696,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2006,262626.634,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2006,107103.981,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,2005,190686.151,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,2005,232325.413,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,2005,92400.268,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1999,110384.91,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1999,139172.512,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1999,48648.508,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1997,112270.948,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1997,139430.07,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1997,46351.842,6
+EXGR,Gross exports,TWN,Chinese Taipei,C,Manufacturing,W,World,USD,1998,101576.379,6
+EXGR,Gross exports,TWN,Chinese Taipei,_T,Total - All activities,W,World,USD,1998,127997.216,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1998,43042.524,6
+EXGR,Gross exports,TWN,Chinese Taipei,C26,"Manufacture of computer, electronic and optical products",W,World,USD,1995,34727.71,6
