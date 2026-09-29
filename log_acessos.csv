@@ -1,0 +1,8 @@
+base,url,data_hora_acesso,observacao
+UN Comtrade (API pública v1 preview),https://comtradeapi.un.org/public/v1/preview/C/A/HS,2026-09-25 17:51,"reporters ['CHN', 'USA'], códigos ['TOTAL', '8541', '8542'], anos 2013-2024"
+"OECD TiVA 2025 edition (SDMX, sti-public)",https://sdmx.oecd.org/sti-public/rest/data/OECD.STI.PIE,2026-09-25 17:54,"fluxos DSD_TIVA_MAINLV@DF_MAINLV e DSD_TIVA_MAINSH@DF_MAINSH; áreas ['CHN', 'KOR', 'TWN', 'USA', 'JPN', 'VNM', 'MEX', 'BRA', 'W']; atividades _T+C+C26"
+"USGS Mineral Commodity Summaries 2026, Rare earths",https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf,2026-09-25 17:55,tabela World Mine Production and Reserves transcrita para brutos/usgs
+UN Comtrade (API pública v1 preview),https://comtradeapi.un.org/public/v1/preview/C/A/HS,2026-09-28 13:31,"reporters ['CHN', 'USA'], códigos ['TOTAL', '8541', '8542'], anos 1995-2024"
+UN Comtrade (API pública v1 preview),https://comtradeapi.un.org/public/v1/preview/C/A/HS,2026-09-28 13:56,"reporters ['CHN', 'USA'], códigos ['TOTAL', '8541', '8542', '854140'], anos 1995-2024"
+UN Comtrade (API pública v1 preview),https://comtradeapi.un.org/public/v1/preview/C/A/HS,2026-09-28 14:05,"complemento 854141/42/43/49, 2022-2024, CHN X e USA M"
+UN Comtrade (API pública v1 preview),https://comtradeapi.un.org/public/v1/preview/C/A/HS,2026-09-28 14:08,"reporters ['CHN', 'USA'], códigos ['TOTAL', '8541', '8542', '854140'], anos 1995-2024"
