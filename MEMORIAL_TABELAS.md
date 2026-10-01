@@ -15,6 +15,8 @@ Este arquivo registra, para cada tabela e figura de elaboração própria, de on
 `scripts\`: `comtrade_coleta.py`, `coleta_85414x.py`, `tiva_coleta.py`, `tabelas.py`, `figuras.py` (reproduzidos no Apêndice A).
 `log_acessos.csv`: base, URL, data e hora de cada execução de coleta. É de onde saem as datas de acesso das Referências; nunca é preenchido à mão.
 
+Repositório público (espelho desta pasta): https://github.com/nicolassilveriogass-cpu/tcc-semicondutores-cgv (GASS, 2026), citado na seção 2.3 e no Apêndice A da monografia; clone local em `12. Github\tcc-semicondutores-cgv`.
+
 Cadeia de reprodução: `python comtrade_coleta.py` e `python coleta_85414x.py` (cache: só baixam o que falta) -> `python tiva_coleta.py` -> `python tabelas.py` -> `python figuras.py`. Rodar `tabelas.py` e `figuras.py` sem recoletar reproduz exatamente as tabelas e figuras atuais, porque os brutos não mudam.
 
 ## 2. Decisões transversais (valem para todas as tabelas de comércio)
@@ -98,15 +100,22 @@ Leitura principal: Taiwan sobe de 52,8% (2010) para 71,2% (2022), e a maior part
 Validação (29/09): valores de TWN, CHN e VNM em 2010, 2018 e 2022 conferidos diretamente nos arquivos SDMX brutos (`brutos\tiva\shares_*.csv`, filtro MEASURE=EXGR_DVA, ACTIVITY=C26, COUNTERPART_AREA=W), sem passar por T3: idênticos.
 Limite declarado (seção 2.7): C26 é mais amplo que semicondutores; a base termina em 2022.
 
+### Tabela 3 (cap. 4, adendo 4.3). Produção e reservas de terras raras por país, 2024-2025
+Arquivo: `tratados\Tabela3_cap4.csv`. Gerada por `scripts\tabela3_cap4.py` em 29/09/2026 a partir da transcrição conferida do USGS (`brutos\usgs\usgs_mcs2026_terras_raras.csv`). Inserida no consolidado de 29/09, seção 4.3.
+Pergunta: onde o Brasil está na cadeia de minerais críticos que alimenta os semicondutores e os ímãs, e quão concentrada é a produção, para sustentar o adendo pedido pelo orientador.
+Cálculo: países ordenados pelas reservas (decrescente); os sem reserva reportada vêm depois, ordenados pela produção de 2025; participações na produção sobre o total mundial de 2025 (390.000 t) e nas reservas sobre 85.000.000 t. Como a fonte informa as reservas mundiais como "mais de 85 milhões", as participações nas reservas são um teto (o Brasil tem até 24,7%, por exemplo). Nomes traduzidos. Unidade: toneladas de óxidos de terras raras (REO), como na fonte.
+Leitura principal: a China produz 69,2% e detém 51,8% das reservas; o Brasil tem a segunda maior reserva (21 milhões de t, 24,7%) e produz 0,5% (2.000 t estimadas em 2025, contra 560 em 2024); Estados Unidos produzem 13,1% com 2,2% das reservas; Mianmar é o terceiro produtor (5,6%) sem reserva reportada; Austrália 7,4% nos dois. O contraste reserva x produção do Brasil é o dado que abre o adendo, e a concentração chinesa na mineração (e, pela CGEE, no refino) é o ponto de estrangulamento no sentido de Farrell e Newman.
+Validação (29/09): a transcrição já tinha sido conferida célula a célula contra o PDF em 28/09; as participações batem com o que a CGEE (2026) reporta a partir da mesma família de dados (Brasil com cerca de 25% das reservas, 21 Mt, segunda atrás da China; China com 69% da mineração em 2024), o que serve de segundo caminho.
+Ressalva da fonte: reservas de alguns países seguem critérios distintos (Austrália informa 6,3 Mt, mas as reservas no padrão JORC eram 3,3 Mt); a China e Mianmar têm cotas de produção. Registrado na nota da tabela.
+
 ### USGS. Produção e reservas de terras raras por país
 Arquivo: `brutos\usgs\usgs_mcs2026_terras_raras.csv`, com `LEIA-ME.txt`. Transcrita em 25/09/2026 da tabela "World Mine Production and Reserves" de Johnston (2026), Mineral Commodity Summaries 2026, USGS, em toneladas de óxidos de terras raras. Conferida célula a célula contra o PDF em 28/09/2026: todos os valores batem; os expoentes junto aos números no PDF são chamadas de nota da tabela, não dígitos. Ressalva da própria fonte: as reservas reportadas por alguns países seguem critérios distintos (a Austrália, por exemplo, informa 6,3 Mt, mas as reservas em padrão JORC eram 3,3 Mt).
 Uso na monografia: tabela do adendo 4.3 (Brasil como segunda maior reserva; China dominante na produção).
 
 ## 4. Tabelas e figuras ainda a construir (a partir das bases acima)
-Tabela do adendo (4.3): produção e reservas de terras raras por país (USGS).
-Cada uma ganha ficha aqui no dia em que for gerada.
+Todas as peças previstas para os capítulos 3 e 4 estão geradas. Novas peças, se surgirem na redação, ganham ficha aqui no dia em que forem geradas.
 
 ## 5. Histórico de versões
 25/09/2026: coleta Comtrade 2013-2024 (TOTAL, 8541, 8542); TiVA 2025; USGS transcrito; T1, T2 e T3 v1; validação de cinco células.
 28/09/2026: coleta estendida a 1995-2024; descoberta de que o grupo 8541.4 (fotovoltaicas e LEDs) é 57-82% da posição 8541; coleta de 854140 e de 854141/42/43/49; regra SEMICOND = 8541 + 8542 menos 8541.4; T1 a T4 regeradas; USGS conferido célula a célula; quatro células adicionais validadas; versão anterior da T1 arquivada.
-29/09/2026: Figura 1 gerada e aprovada; este memorial criado; Tabelas 1 e 2 e Figura 2 do cap. 3 geradas, validadas por segundo caminho e aprovadas pelo Nicolas; T2 regerada com quatro decimais (sem mudança de regra).
+29/09/2026: Figura 1 gerada e aprovada; este memorial criado; Tabelas 1 e 2 e Figura 2 do cap. 3 geradas, validadas por segundo caminho e aprovadas pelo Nicolas; Tabela 3 (terras raras, adendo 4.3) gerada; T2 regerada com quatro decimais (sem mudança de regra).

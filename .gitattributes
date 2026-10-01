@@ -1,0 +1,7 @@
+# Normaliza fins de linha para evitar que o Git marque centenas de csv como alterados
+* text=auto
+*.png binary
+*.json text
+*.csv text
+*.py text
+*.md text
