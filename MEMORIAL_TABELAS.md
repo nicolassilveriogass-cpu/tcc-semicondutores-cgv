@@ -112,6 +112,16 @@ Ressalva da fonte: reservas de alguns países seguem critérios distintos (Austr
 Arquivo: `brutos\usgs\usgs_mcs2026_terras_raras.csv`, com `LEIA-ME.txt`. Transcrita em 25/09/2026 da tabela "World Mine Production and Reserves" de Johnston (2026), Mineral Commodity Summaries 2026, USGS, em toneladas de óxidos de terras raras. Conferida célula a célula contra o PDF em 28/09/2026: todos os valores batem; os expoentes junto aos números no PDF são chamadas de nota da tabela, não dígitos. Ressalva da própria fonte: as reservas reportadas por alguns países seguem critérios distintos (a Austrália, por exemplo, informa 6,3 Mt, mas as reservas em padrão JORC eram 3,3 Mt).
 Uso na monografia: tabela do adendo 4.3 (Brasil como segunda maior reserva; China dominante na produção).
 
+
+### Figuras conceituais do cap. 1 (seção 1.1): Figura 1 (fragmentação) e Figura 2 (linha do tempo)
+
+Pergunta: ilustrar a diferença entre outsourcing e offshoring (Figura 1) e os dois desmembramentos da globalização (Figura 2), conforme pedido do orientador em 13/10/2026 ("pegar uma figura dela ali, ou duas... coloca a fonte Hermida mesmo").
+Fonte: Hermida (2016), tese UFU, Figura 1 (p. 48, "Fragmentação internacional da produção", elaborada pela autora a partir de OECD 2013) e Figura 2 (p. 52, "Linha do tempo de eventos relacionados com a fragmentação"); Baldwin (2016) para os desmembramentos. Não há dados numéricos: são diagramas conceituais.
+Decisão: redesenhar em vez de recortar a imagem da tese (regra do projeto: figuras de terceiros são refeitas, citando a fonte), em preto e branco, 300 dpi, Times. Fonte declarada em cada figura: "elaboração própria, a partir de Hermida (2016, p. 48)" e "(2016, p. 52) e Baldwin (2016)". Conteúdo mantido fiel: Figura 1 reproduz a matriz 2x2 (localização nacional/internacional x entre firmas/uma única firma) com o offshoring como as duas células internacionais; Figura 2 reproduz os marcos 1770-80, 1830, 1870, 1940, 1980, 1990 e 2000, as tecnologias de cada marco e os fatos estilizados dos dois desmembramentos, resumidos. Eixo do tempo categórico (espaçamento igual entre marcos), para legibilidade.
+Script: `scripts\figuras_cap1.py` -> `figuras\Figura_1_cap1_fragmentacao.png`, `figuras\Figura_2_cap1_linha_tempo.png`.
+Numeração: na monografia, passam a ser as Figuras 1 e 2; as figuras do cap. 3 (hoje `Figura_1.png` e `Figura_2.png`) serão renumeradas para 3 e 4 na consolidação (os arquivos não mudam de nome; só as legendas no build).
+Validação: conferência visual contra as páginas 48 e 52 da tese (imagem renderizada do PDF) em 14/10/2026.
+
 ## 4. Tabelas e figuras ainda a construir (a partir das bases acima)
 Todas as peças previstas para os capítulos 3 e 4 estão geradas. Novas peças, se surgirem na redação, ganham ficha aqui no dia em que forem geradas.
 
@@ -119,3 +129,4 @@ Todas as peças previstas para os capítulos 3 e 4 estão geradas. Novas peças,
 25/09/2026: coleta Comtrade 2013-2024 (TOTAL, 8541, 8542); TiVA 2025; USGS transcrito; T1, T2 e T3 v1; validação de cinco células.
 28/09/2026: coleta estendida a 1995-2024; descoberta de que o grupo 8541.4 (fotovoltaicas e LEDs) é 57-82% da posição 8541; coleta de 854140 e de 854141/42/43/49; regra SEMICOND = 8541 + 8542 menos 8541.4; T1 a T4 regeradas; USGS conferido célula a célula; quatro células adicionais validadas; versão anterior da T1 arquivada.
 29/09/2026: Figura 1 gerada e aprovada; este memorial criado; Tabelas 1 e 2 e Figura 2 do cap. 3 geradas, validadas por segundo caminho e aprovadas pelo Nicolas; Tabela 3 (terras raras, adendo 4.3) gerada; T2 regerada com quatro decimais (sem mudança de regra).
+- 14/10/2026: Figuras conceituais do cap. 1 geradas (`figuras_cap1.py`), redesenhadas de Hermida (2016, p. 48 e 52); regra de renumeração das figuras do cap. 3 registrada.
