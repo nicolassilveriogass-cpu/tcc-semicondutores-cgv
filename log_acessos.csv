@@ -6,3 +6,5 @@ UN Comtrade (API pública v1 preview),https://comtradeapi.un.org/public/v1/previ
 UN Comtrade (API pública v1 preview),https://comtradeapi.un.org/public/v1/preview/C/A/HS,2026-09-28 13:56,"reporters ['CHN', 'USA'], códigos ['TOTAL', '8541', '8542', '854140'], anos 1995-2024"
 UN Comtrade (API pública v1 preview),https://comtradeapi.un.org/public/v1/preview/C/A/HS,2026-09-28 14:05,"complemento 854141/42/43/49, 2022-2024, CHN X e USA M"
 UN Comtrade (API pública v1 preview),https://comtradeapi.un.org/public/v1/preview/C/A/HS,2026-09-28 14:08,"reporters ['CHN', 'USA'], códigos ['TOTAL', '8541', '8542', '854140'], anos 1995-2024"
+UN Comtrade (API pública v1 preview),https://comtradeapi.un.org/public/v1/preview/C/A/HS,2026-11-04 22:40,"todos os declarantes, exportações ao mundo (X, partner 0) e espelho de Taiwan (M, partner 490), códigos [8541, 8542, 854140], anos 2013-2024; 72 consultas"
+UN Comtrade (API pública v1 preview),https://comtradeapi.un.org/public/v1/preview/C/A/HS,2026-11-04 23:00,"validação de 9 células da tabela mundial por chamadas isoladas (reporter, cmd, ano); todas idênticas aos brutos"

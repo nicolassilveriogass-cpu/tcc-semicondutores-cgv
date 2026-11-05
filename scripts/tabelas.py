@@ -87,7 +87,7 @@ def t1_china_destinos(d, nomes):
 
 def t2_eua_origens(d, nomes):
     """Participação de origens selecionadas nas importações dos EUA, por ano."""
-    origens = {156: "China", 490: "Taiwan", 410: "Coreia do Sul", 704: "Vietnã", 484: "México",
+    origens = {156: "China", 490: "Taiwan", 410: "Coreia do Sul", 704: "Vietnã", 484: "México", 699: "Índia",
                458: "Malásia", 392: "Japão", 76: "Brasil"}
     saida = []
     for grupo in ("TOTAL", "SEMICOND"):

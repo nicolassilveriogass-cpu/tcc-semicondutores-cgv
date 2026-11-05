@@ -1,6 +1,6 @@
 # Geopolítica e cadeias globais de valor: dados e rotinas da monografia
 
-Material de reprodutibilidade da monografia **"Geopolítica e cadeias globais de valor: a reorganização da produção de semicondutores no Leste Asiático após 2018"**, de Nicolas Silvério Gass (Ciências Econômicas, Faculdade de Ciências Econômicas, UFRGS, 2026), orientada pelo Prof. Dr. Samuel Costa.
+Material de reprodutibilidade da monografia **"Geopolítica e cadeias globais de valor: a reorganização da produção de semicondutores no mundo após 2018"**, de Nicolas Silvério Gass (Ciências Econômicas, Faculdade de Ciências Econômicas, UFRGS, 2026), orientada pelo Prof. Dr. Samuel Costa.
 
 Este repositório contém tudo o que é preciso para refazer as tabelas e figuras do trabalho: os dados brutos exatamente como foram baixados das fontes, as rotinas de coleta e tratamento, as tabelas tratadas, as figuras e um memorial com o racional de cada peça.
 

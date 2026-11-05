@@ -16,7 +16,7 @@ import csv, os
 AQUI = os.path.dirname(os.path.abspath(__file__))
 TRAT = os.path.join(AQUI, "..", "tratados")
 PRE, POS = range(2013, 2018), range(2019, 2025)
-ORIGENS = ["China", "Taiwan", "Coreia do Sul", "Malásia", "Vietnã", "Japão", "México"]
+ORIGENS = ["China", "Taiwan", "Coreia do Sul", "Malásia", "Vietnã", "Índia", "Japão", "México"]
 
 
 def media(vals):

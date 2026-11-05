@@ -40,32 +40,40 @@ def ler(nome):
 
 
 def fig1():
-    """Figura 1: origens das importações de semicondutores dos EUA (%) e HHI, 1995-2024."""
+    """Figura 1 (cap. 3): origens das importações de semicondutores dos EUA, 1995-2024, em dois
+    painéis (quem perdeu espaço; quem ganhou espaço), e HHI da pauta de origem (painel c).
+    Versão de 04/11/2026: substitui o painel único de seis linhas; Coreia do Sul (estável) sai
+    do gráfico e fica na Tabela 2; México entra como caso de nearshoring."""
     t2 = [r for r in ler("T2_eua_origens_share.csv") if r["grupo"] == "SEMICOND"]
     t4 = {(r["grupo"], int(r["ano"])): float(r["HHI"]) for r in ler("T4_eua_hhi_origens.csv")}
     anos = [int(r["ano"]) for r in t2]
-    series = [("China", "China_%"), ("Taiwan", "Taiwan_%"), ("Coreia do Sul", "Coreia do Sul_%"),
-              ("Malásia", "Malásia_%"), ("Vietnã", "Vietnã_%"), ("Japão", "Japão_%")]
+    perde = [("China", "China_%"), ("Japão", "Japão_%")]
+    ganha = [("Taiwan", "Taiwan_%"), ("Malásia", "Malásia_%"), ("Vietnã", "Vietnã_%"), ("México", "México_%")]
 
-    fig, (a, b) = plt.subplots(2, 1, figsize=(6.3, 7.4), gridspec_kw={"height_ratios": [3, 1.5]})
-    for (rotulo, col), st in zip(series, ESTILOS):
-        y = [float(r[col]) if r[col] else None for r in t2]
-        a.plot(anos, y, label=rotulo, lw=1.3, markevery=3, **st)
-    a.axvspan(2018, 2024.4, color="lightgray", alpha=0.35, lw=0)
+    fig = plt.figure(figsize=(6.3, 8.2))
+    gs = fig.add_gridspec(2, 2, height_ratios=[2.6, 1.5])
+    a = fig.add_subplot(gs[0, 0]); b = fig.add_subplot(gs[0, 1], sharey=a); c = fig.add_subplot(gs[1, :])
+    for ax, series, titulo, ests in [(a, perde, "(a) Origens que perderam espaço", ESTILOS[:2]),
+                                     (b, ganha, "(b) Origens que ganharam espaço", ESTILOS[1:5])]:
+        for (rotulo, col), st in zip(series, ests):
+            y = [float(r[col]) if r[col] else None for r in t2]
+            ax.plot(anos, y, label=rotulo, lw=1.3, markevery=3, **st)
+        ax.axvspan(2018, 2024.4, color="lightgray", alpha=0.35, lw=0)
+        ax.text(2018.3, 48, "pós-2018", fontsize=8, color="dimgray", va="top")
+        ax.set_xlim(1995, 2024.4); ax.set_ylim(0, 50)
+        ax.set_title(titulo, loc="left", fontsize=9)
+        ax.legend(frameon=False, loc="upper left", ncol=2, handlelength=2.4, columnspacing=0.8)
+        ax.set_xlabel("Ano")
     a.set_ylabel("Participação (%)")
-    a.set_xlim(1995, 2024.4); a.set_ylim(0, 50)
-    a.text(2018.3, 48, "pós-2018", fontsize=8, color="dimgray", va="top")
-    a.legend(ncol=6, frameon=False, loc="lower center", bbox_to_anchor=(0.5, 1.0), handlelength=2.6, columnspacing=1.0)
-    a.set_title("(a) Participação por origem nas importações de semicondutores dos EUA", loc="left", fontsize=9, pad=22)
+    plt.setp(b.get_yticklabels(), visible=False)
 
     hs = [t4.get(("SEMICOND", y)) for y in anos]; ht = [t4.get(("TOTAL", y)) for y in anos]
-    b.plot(anos, hs, color="black", ls="-", lw=1.3, label="Semicondutores")
-    b.plot(anos, ht, color="dimgray", ls="--", lw=1.3, label="Total das importações")
-    b.axvspan(2018, 2024.4, color="lightgray", alpha=0.35, lw=0)
-    b.set_ylabel("HHI (0 a 10.000)"); b.set_xlabel("Ano"); b.set_xlim(1995, 2024.4); b.set_ylim(bottom=0)
-    b.set_ylim(0, 2600)
-    b.legend(frameon=False, loc="upper left", ncol=2)
-    b.set_title("(b) Concentração da pauta de origem (índice de Herfindahl-Hirschman)", loc="left", fontsize=9)
+    c.plot(anos, hs, color="black", ls="-", lw=1.3, label="Semicondutores")
+    c.plot(anos, ht, color="dimgray", ls="--", lw=1.3, label="Total das importações")
+    c.axvspan(2018, 2024.4, color="lightgray", alpha=0.35, lw=0)
+    c.set_ylabel("HHI (0 a 10.000)"); c.set_xlabel("Ano"); c.set_xlim(1995, 2024.4); c.set_ylim(0, 2600)
+    c.legend(frameon=False, loc="upper left", ncol=2)
+    c.set_title("(c) Concentração da pauta de origem (índice de Herfindahl-Hirschman)", loc="left", fontsize=9)
 
     fig.tight_layout()
     fig.savefig(os.path.join(FIG, "Figura_1.png"), dpi=300)
