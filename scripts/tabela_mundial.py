@@ -40,7 +40,7 @@ LOG = open(os.path.join(BRUTOS, "log_tabela_mundial.txt"), "a", encoding="utf-8"
 PRE, POS = (2013, 2017), (2019, 2023)
 
 NOMES = {156: "China", 344: "Hong Kong", 410: "Coreia do Sul", 490: "Taiwan", 458: "Malásia",
-         704: "Vietnã", 702: "Singapura", 392: "Japão", 842: "Estados Unidos", 608: "Filipinas",
+         704: "Vietnã", 702: "Cingapura", 392: "Japão", 842: "Estados Unidos", 608: "Filipinas",
          276: "Alemanha", 764: "Tailândia", 699: "Índia", 484: "México", 528: "Países Baixos",
          372: "Irlanda", 36: "Austrália", 76: "Brasil", 757: "Suíça", 376: "Israel", 251: "França"}
 

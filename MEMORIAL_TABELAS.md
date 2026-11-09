@@ -145,6 +145,28 @@ Uso na monografia: Tabela 4 do capítulo 3 (seção 3.3.2). A tabela de terras r
 - Validação da T5 (tabela mundial): nove células (China 8542/2015; Coreia 8542/2022; Cingapura 8541/2019; Malásia 8542/2023; EUA 8542/2013; Japão 854140/2017; Alemanha 8542/2021; Vietnã 8542/2020; Hong Kong 8542/2024) reconsultadas por chamadas isoladas em 04/11/2026 e idênticas aos brutos (`brutos\comtrade_mundo\validacao_9_celulas.txt`).
 - Numeração vigente das tabelas: 1 mundial (T5), 2 EUA (T2/T4), 3 China (T1), 4 IDE (T6), 5 terras raras (USGS).
 
+### T7. HHI dos destinos das exportações chinesas (linhas finais da Tabela 3 da monografia)
+- Arquivo: `tratados/T6_china_hhi_destinos.csv` (ano a ano, TOTAL e SEMICOND, 1995-2024) e as duas linhas "HHI semicondutores" / "HHI comércio total" acrescentadas a `tratados/Tabela2_cap3.csv`. Script: `scripts/hhi_china_destinos.py`.
+- Pergunta: a seletividade setorial vale também no ângulo chinês? O cap. 2 prometia o teste nos ângulos americano e chinês e, até 09/11, só o americano tinha HHI.
+- Consulta: nenhuma nova; reusa `comtrade_consolidado.csv` (China, X, por parceiro) via `tabelas.carregar_comtrade()`. HHI = 10.000 x soma dos quadrados das participações de todos os destinos (partner != 0, valor > 0), por ano; médias simples de 2013-17 e 2019-24.
+- Resultado: semicondutores 3.390 -> 2.305 (-1.085, cerca de -32%); total 679 -> 514 (-165, cerca de -24%). Direção oposta à do ângulo americano (lá concentra, aqui dispersa), mas magnitude maior nos chips nos dois ângulos, que é o que a sub-hipótese prevê. Dispersão puxada por Hong Kong (55,6 -> 42,6) e pela entrada de Coreia, Vietnã, Malásia e Índia.
+- Decisões: 2013 tem valor atípico (4.971) pelo peso de Hong Kong; registrado na fonte da tabela e mantido na média (critério igual ao das demais tabelas). Hong Kong inclui reexportações, limite já declarado.
+- Validação (09/11): soma das participações de todos os destinos conferida contra o total declarado ao mundo (partner 0) em 2017 e 2024, para SEMICOND e TOTAL; HHI dos três maiores destinos recalculado em separado e comparado ao HHI completo (ver saída do script na sessão de 09/11).
+
+### T8. Tabela-síntese dos três ângulos (Tabela 5 da monografia)
+- Arquivo: `tratados/Tabela6_cap3_sintese.csv`. Script: `scripts/tabela_sintese.py`.
+- Pergunta: a hipótese da reorganização desigual, lida em uma tabela só: variação (p.p.) da participação de cada economia no mundo (Tabela 1), nas importações dos EUA (Tabela 2) e nos destinos da China (Tabela 3).
+- Consulta: nenhuma nova; só reúne as três tabelas tratadas. Economias: China, Taiwan, Coreia do Sul, Malásia, Vietnã, Índia, México, Japão, Estados Unidos. "n.d." para quem está fora dos doze maiores destinos chineses (China e México) ou não se aplica (EUA como origem própria).
+- Resultado: Taiwan e Malásia positivas nos três; Vietnã positivo nos três; Índia só como destino; Coreia negativa no mundo e EUA, positiva como destino da China; China positiva no mundo e negativa nos EUA; Japão e EUA negativos em tudo.
+
+### F5. Figura 3 da monografia (série mundial ano a ano)
+- Arquivo: `figuras/Figura_5_mundo.png`. Script: `scripts/figura5_mundo.py` (importa `ESTILOS` de `figuras.py`). Lê T5.
+- Dois painéis: (a) participação dos nove maiores exportadores, 2013-2023; (b) HHI mundial. 2024 fora (declarações incompletas, mesmo critério da Tabela 1).
+- Leitura: China cai 15,7 (2013) -> 10,2 (2017) e volta a 15,3 (2023); Taiwan salta 24,1 (2019) -> 27,2 (2021); Coreia pico 12,8 em 2018 e 7,1 em 2023; HHI 1.260-1.310 até 2019, 1.390 em 2020 e 1.470 em 2021.
+
+### Numeração vigente na monografia (09/11/2026)
+Tabelas: 1 mundial (`Tabela1_cap3_mundial.csv`), 2 EUA (`Tabela1_cap3.csv`), 3 China com HHI (`Tabela2_cap3.csv`), 4 IDE (`Tabela4_cap3_ide.csv`), 5 síntese (`Tabela6_cap3_sintese.csv`), 6 terras raras (`Tabela3_cap4.csv`). Figuras: 1 e 2 cap. 1; 3 mundo ano a ano (`Figura_5_mundo.png`); 4 EUA (`Figura_1.png`); 5 TiVA (`Figura_2.png`).
+
 ## 4. Tabelas e figuras ainda a construir (a partir das bases acima)
 Todas as peças previstas para os capítulos 3 e 4 estão geradas. Novas peças, se surgirem na redação, ganham ficha aqui no dia em que forem geradas.
 
@@ -155,3 +177,5 @@ Todas as peças previstas para os capítulos 3 e 4 estão geradas. Novas peças,
 - 14/10/2026: Figuras conceituais do cap. 1 geradas (`figuras_cap1.py`), redesenhadas de Hermida (2016, p. 48 e 52); regra de renumeração das figuras do cap. 3 registrada.
 - 04/11/2026: T5 (participação mundial por exportador, Tabela 1 do cap. 3) coletada e gerada (`tabela_mundial.py`, 72 brutos em `brutos\comtrade_mundo`); regra de renumeração das tabelas registrada na ficha T5; TiVA (T3) rebaixada a apoio no texto, por decisão de 04/11.
 - 04/11/2026 (2ª): Índia incluída na T2 e na Tabela 2; Figura 1 do cap. 3 refeita em três painéis; T6 (IDE greenfield, transcrição do TDR 2026) criada como Tabela 4; nove células da T5 validadas; numeração das tabelas fixada (1 mundial, 2 EUA, 3 China, 4 IDE, 5 terras raras).
+- 09/11/2026: T7 (HHI dos destinos chineses, fecha a Tabela 3), T8 (tabela-síntese, Tabela 5) e Figura 3 (série mundial) criadas; renumeração: IDE vira Tabela 4 (mantida), síntese Tabela 5, terras raras Tabela 6; figuras do cap. 3 passam a 3 (mundo), 4 (EUA), 5 (TiVA). Nenhuma coleta nova.
+- 10/11/2026: grafia 'Singapura' corrigida para 'Cingapura' em tabela_mundial.py, T5, Tabela1_cap3_mundial.csv e Figura 3 (figura5_mundo.py); sem mudança de valores.
